@@ -23,3 +23,8 @@ content:
     picture: /images/brand/dash_logo_2018_black.png
     description: >
       Detailed docs for working with Dash's internal Core Network
+  - title: Tendermint Core Docs
+    website: https://docs.tendermint.com/master/
+    picture: /images/sites/tendermint.jpg
+    description: >
+      Docs for Tendermint, the BFT protocol used on Layer 2 in conjunction with Masternode quorums
