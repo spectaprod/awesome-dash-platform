@@ -26,15 +26,15 @@ content:
   source: https://github.com/dashevo/dash-network-deploy
   website: https://github.com/dashevo/dash-network-deploy
   description: This tool assists in deploying and managing Dash networks.
-  picture: /images/sites/GitHub-Mark.png
+  picture: /images/marks/GitHub-Mark.png
 - title: Dash Masternode Deployment Tool
   source: https://github.com/strophy/dash-masternode-docker
   website: https://github.com/strophy/dash-masternode-docker
   description: This tool deploys a Dash masternode to the current host.
-  picture: /images/sites/GitHub-Mark.png
+  picture: /images/marks/GitHub-Mark.png
 - title: DAPI Client Python
   source: https://github.com/thephez/dapi-client-py
   website: https://github.com/thephez/dapi-client-py
   description: A very basic, read-only DAPI client.
-  picture: /images/sites/GitHub-Mark.png
+  picture: /images/marks/GitHub-Mark.png
 

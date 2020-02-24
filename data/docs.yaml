@@ -15,7 +15,7 @@ content:
       Guides and documentation to help you start working with Dash Platform as quickly as possible, as well as support if you get stuck.
   - title: Dash User Docs
     website: https://docs.dash.org/en/stable/
-    picture: /images/sites/readthedocs.png
+    picture: /images/marks/readthedocs.png
     description: >
       User documentation for understanding general Dash concepts & usage
   - title: Core Developer Guide
@@ -25,6 +25,6 @@ content:
       Detailed docs for working with Dash's internal Core Network
   - title: Tendermint Core Docs
     website: https://docs.tendermint.com/master/
-    picture: /images/sites/tendermint.jpg
+    picture: /images/marks/tendermint.jpg
     description: >
       Docs for Tendermint, the BFT protocol used on Layer 2 in conjunction with Masternode quorums
