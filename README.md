@@ -55,16 +55,18 @@ Readme and the website are automatically generated. In order to add an element t
 
 ## Docs
 
-- [Core Developer Guide](https://dash-docs.github.io/en/developer-guide) - Detailed docs for working with Dash's internal Core Network [Source](https://github.com/dash-docs/dash-docs)
+- [Core Developer Guide](https://dashcore.readme.io/docs/core-guide-introduction) - Detailed docs for working with Dash's internal Core Network
 - [Dash User Docs](https://docs.dash.org/en/stable/) - User documentation for understanding general Dash concepts & usage
 - [DashJS](https://dashevo.github.io/DashJS) - JavaScript library for Dapp developers on Dash Platform
 - [Platform Developer Guide](https://dashplatform.readme.io/) - Guides and documentation to help you start working with Dash Platform as quickly as possible, as well as support if you get stuck.
+- [Tendermint Core Docs](https://docs.tendermint.com/master/) - Docs for Tendermint, the BFT protocol used on Layer 2 in conjunction with Masternode quorums
 
 ## Tools
 
 - [Block Explorer (Core)](http://devnet-evonet-1117662964.us-west-2.elb.amazonaws.com:3001/insight/) - Core Network Blocks (Layer 1), for Currency, Identity and Credit Transactions [Source](https://github.com/dashevo/insight-ui)
 - [Block Explorer (Platform)](https://github.com/dappforce/dappforce-tendermint-explorer) - Masternode Network blocks (Layer 2), for State Transitions
 - [DAPI Client Python](https://github.com/thephez/dapi-client-py) - A very basic, read-only DAPI client.
+- [Dash Masternode Deployment Tool](https://github.com/strophy/dash-masternode-docker) - This tool deploys a Dash masternode to the current host.
 - [Dash Network Deploy](https://github.com/dashevo/dash-network-deploy) - This tool assists in deploying and managing Dash networks.
 - [EvoNet Faucet](http://devnet-evonet-1117662964.us-west-2.elb.amazonaws.com/) - Get EvoNet coins to test with
 - [Platform Console](https://dash-platform-console.now.sh/identities) - Explore & Update Platform State (WIP) [Source](https://github.com/denlb/dash-platform-console)
