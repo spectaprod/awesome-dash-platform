@@ -1,0 +1,20 @@
+title: Bounties
+color: yellow
+icon: stroke_pencil
+description: Articles about Dash Platform.
+content:
+  - title: Dash Heart Bounty
+    website: https://trello.com/c/BhXzmXez/7-dash-heart-bounty
+    picture: /images/bounties/bounty.png
+  - title: Python DAPI Bindings
+    website: https://trello.com/c/o7Rf2ETW/15-python-dapi-bindings
+    picture: /images/bounties/bounty.png
+  - title: C# DAPI Bindings
+    website: https://trello.com/c/6qVaLYmo/16-c-dapi-bindings
+    picture: /images/bounties/bounty.png
+  - title: RUST DAPI Bindings
+    website: https://trello.com/c/7EwpLxKZ/13-rust-bindings
+    picture: /images/bounties/bounty.png
+  - title: Standalone-Blockchain for Dash Development as NPM Package
+    website: https://trello.com/c/X5LxzuRl/17-standalone-blockchain-for-dash-development-as-npm-package
+    picture: /images/bounties/bounty.png
