@@ -13,10 +13,11 @@ module.exports = fs.readdirSync(dir)
     file.slug = slugify(file.title)
     file.type = 'category'
 
-    file.content = file.content.map(({ title, description, ...meta }, i) => ({
+    file.content = file.content.map(({ title, description, weight, ...meta }, i) => ({
       ...meta,
       title: trimIfExists(title),
       description: trimIfExists(description),
+      weight: weight,
       category: file.slug,
       color: file.color,
       index: i
@@ -32,3 +33,4 @@ module.exports = fs.readdirSync(dir)
     return file
   })
   .sort((a, b) => sortAbc(a.title, b.title))
+  .sort((a, b) => sortInv(a.weight, b.weight))
