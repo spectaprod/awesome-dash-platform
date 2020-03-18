@@ -33,4 +33,4 @@ module.exports = fs.readdirSync(dir)
     return file
   })
   .sort((a, b) => sortAbc(a.title, b.title))
-  .sort((a, b) => sortInv(a.weight, b.weight))
+  .sort((b, a) => sortInv(a.weight, b.weight))
