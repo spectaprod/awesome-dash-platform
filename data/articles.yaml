@@ -3,6 +3,11 @@ color: navy
 icon: stroke_pencil
 description: Articles about Dash Platform.
 content:
+  - title: Announcing the Release of Dash Platform v0.11
+    date: "2020-03-18"
+    website: https://blog.dash.org/announcing-the-release-of-dash-platform-v0-11-d1b7238ed0e6
+    description: Dash Blog
+    picture: /images/articles/platform_011_release.jpeg
   - title: Announcing the Release of Dash Platform on Evonet
     date: "2019-12-30"
     website: https://blog.dash.org/announcing-the-release-of-dash-platform-on-evonet-c5a94dee0e59
