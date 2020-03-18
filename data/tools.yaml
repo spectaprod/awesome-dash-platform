@@ -2,7 +2,7 @@ title: Tools
 color: yellow
 icon: stroke_code
 description: Tools for developing with Dash Platform.
-weight: 6
+weight: 5
 content:
 - title: EvoNet Faucet
   website: http://devnet-evonet-1117662964.us-west-2.elb.amazonaws.com/

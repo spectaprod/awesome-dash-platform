@@ -2,6 +2,7 @@ title: Dapps
 color: aqua
 icon: stroke_marketing
 description: Dapps under development for Dash Platform
+weight: 3
 content:
   - title: DPNS
     website: https://dashplatform.readme.io/docs/explanation-dpns

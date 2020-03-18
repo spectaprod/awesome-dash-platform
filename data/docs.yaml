@@ -2,7 +2,7 @@ title: Docs
 color: green
 icon: stroke_decentralization
 description: Dash Platorm Documentation resources.
-weight: 10
+weight: 4
 content:
   - title: DashJS
     website: https://dashevo.github.io/DashJS

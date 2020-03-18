@@ -2,6 +2,7 @@ title: DAPI
 color: teal
 icon: stroke_copy
 description: Useful code & tutorials for Dash Platform
+weight: 2
 content:
   - title: DashJS
     website: https://dashevo.github.io/DashJS/#/

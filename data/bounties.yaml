@@ -2,6 +2,7 @@ title: Bounties
 color: yellow
 icon: stroke_pencil
 description: Articles about Dash Platform.
+weight: 7
 content:
   - title: Dash Heart Bounty
     website: https://trello.com/c/BhXzmXez/7-dash-heart-bounty
