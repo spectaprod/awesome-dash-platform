@@ -13,6 +13,7 @@ _This list is for projects, tools, or pretty much any things related to Dash Pla
 - [Docs](#docs)
 - [Tools](#tools)
 - [Videos](#videos)
+- [Bounties](#bounties)
 - [Discussions](#discussions)
 - [License](#license)
 
@@ -25,6 +26,7 @@ Readme and the website are automatically generated. In order to add an element t
 
 ## Articles
 
+- 2020-03-18: [Announcing the Release of Dash Platform v0.11](https://blog.dash.org/announcing-the-release-of-dash-platform-v0-11-d1b7238ed0e6) - Dash Blog
 - 2019-12-30: [Announcing the Release of Dash Platform on Evonet](https://blog.dash.org/announcing-the-release-of-dash-platform-on-evonet-c5a94dee0e59) - Dash Blog
 - 2019-12-30: [Long-Awaited Dash Evolution Platform Released on Testnet](https://dashnews.org/long-awaited-dash-evolution-platform-released-on-testnet-with-developer-documentation-hub/) - Dash News
 - 2019-12-18: [Edge Wallet Highlights Dash Evolution Update](https://dashnews.org/edge-wallet-highlights-dash-evolution-update-skeptical-on-store-of-value-analysis/) - Dash News
@@ -86,6 +88,18 @@ Readme and the website are automatically generated. In order to add an element t
 - 2018-05-15: [Platform Prototype Demo 3](https://www.youtube.com/watch?v=ZJVW9iUHqLg) - Chuck, Suba, and Chris from Dash Core demonstrate three exploratory designs for the Dashpay DAP demo home screen
 - 2018-04-25: [Platform Prototype Demo 2](https://www.youtube.com/watch?v=EtYax7iz4hU) - Dash Core developers Joshua, Chuck, and Suba demonstrate the 2nd prototype of the first Dash decentralized application, show off some mobile app designs, and demonstrate the VMN block explorer.
 - 2018-03-16: [Platform Prototype Demo 1](https://www.youtube.com/watch?v=gbjYhZT2Ulc) - Dash Core developers Joshua and Chuck demonstrate a prototype of the first Dash decentralized application and show some technical details of the Dash Evolution platform
+
+## Bounties
+
+- [C# DAPI Bindings](https://trello.com/c/6qVaLYmo/16-c-dapi-bindings) 
+- [DashDevs.org Work](https://trello.com/c/iN58zxs0/19-dashdevsorg-work) 
+- [Golang DAPI Bindings](https://trello.com/c/ErETMzMX/21-golang-dapi-bindings) 
+- [Memo Dash Dapp](https://trello.com/c/Kzn8JX12/12-memo-dash-dapp) 
+- [Platform Console](https://trello.com/c/hLLhWYJJ/25-platform-console-fork-to-dashjs-and-finish-sandbox-prototype) 
+- [Python DAPI Bindings](https://trello.com/c/o7Rf2ETW/15-python-dapi-bindings) 
+- [Python DAPI Bindings](https://trello.com/c/o7Rf2ETW/15-python-dapi-bindings) 
+- [RUST DAPI Bindings](https://trello.com/c/7EwpLxKZ/13-rust-bindings) 
+- [Tendermint Block Explorer](https://trello.com/c/ezAfj6lG/18-tendermint-block-explorer) 
 
 ## Discussions
 
