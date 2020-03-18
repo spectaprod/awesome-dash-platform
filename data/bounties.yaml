@@ -4,8 +4,17 @@ icon: stroke_pencil
 description: Articles about Dash Platform.
 weight: 7
 content:
-  - title: Dash Heart Bounty
-    website: https://trello.com/c/BhXzmXez/7-dash-heart-bounty
+  - title: Platform Console
+    website: https://trello.com/c/hLLhWYJJ/25-platform-console-fork-to-dashjs-and-finish-sandbox-prototype
+    picture: /images/bounties/bounty.png
+  - title: Memo Dash Dapp
+    website: https://trello.com/c/Kzn8JX12/12-memo-dash-dapp
+    picture: /images/bounties/bounty.png
+  - title: Tendermint Block Explorer
+    website: https://trello.com/c/ezAfj6lG/18-tendermint-block-explorer
+    picture: /images/bounties/bounty.png
+  - title: DashDevs.org Work
+    website: https://trello.com/c/iN58zxs0/19-dashdevsorg-work
     picture: /images/bounties/bounty.png
   - title: Python DAPI Bindings
     website: https://trello.com/c/o7Rf2ETW/15-python-dapi-bindings
@@ -16,6 +25,9 @@ content:
   - title: RUST DAPI Bindings
     website: https://trello.com/c/7EwpLxKZ/13-rust-bindings
     picture: /images/bounties/bounty.png
-  - title: Standalone-Blockchain for Dash Development as NPM Package
-    website: https://trello.com/c/X5LxzuRl/17-standalone-blockchain-for-dash-development-as-npm-package
+  - title: Python DAPI Bindings
+    website: https://trello.com/c/o7Rf2ETW/15-python-dapi-bindings
+    picture: /images/bounties/bounty.png
+  - title: Golang DAPI Bindings
+    website: https://trello.com/c/ErETMzMX/21-golang-dapi-bindings
     picture: /images/bounties/bounty.png
