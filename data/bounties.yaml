@@ -4,8 +4,11 @@ icon: stroke_pencil
 description: Articles about Dash Platform.
 weight: 7
 content:
+  - title: Create Hello World Tutorial
+    website: https://trello.com/c/wEawlJb2/23-create-hello-world-tutorial
+    picture: /images/bounties/bounty.png
   - title: Platform Console
-    website: https://trello.com/c/hLLhWYJJ/25-platform-console-fork-to-dashjs-and-finish-sandbox-prototype
+    website: https://trello.com/c/Xezls3IC/9-platform-console-fork-to-dashjs-and-finish-sandbox-prototype
     picture: /images/bounties/bounty.png
   - title: Memo Dash Dapp
     website: https://trello.com/c/Kzn8JX12/12-memo-dash-dapp
@@ -30,4 +33,7 @@ content:
     picture: /images/bounties/bounty.png
   - title: Golang DAPI Bindings
     website: https://trello.com/c/ErETMzMX/21-golang-dapi-bindings
+    picture: /images/bounties/bounty.png
+  - title: Community EvoNet MN Hosting
+    website: https://trello.com/c/rzjc7eY1/26-community-evonet-mn-hosting
     picture: /images/bounties/bounty.png
