@@ -1,7 +1,7 @@
 title: DAPI
 color: teal
 icon: stroke_copy
-description: Useful code & tutorials for Dash Platform
+description: Useful code & tutorials for working with Dash Platform's Decentralized-API (DAPI)
 weight: 2
 content:
   - title: DashJS

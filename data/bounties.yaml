@@ -1,7 +1,7 @@
 title: Bounties
 color: yellow
 icon: stroke_pencil
-description: Articles about Dash Platform.
+description: Bounties for Dash Platform tools, resource and Dapps.
 weight: 7
 content:
   - title: Create Hello World Tutorial
