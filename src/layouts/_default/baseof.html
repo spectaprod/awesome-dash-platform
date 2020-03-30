@@ -28,12 +28,14 @@
     </nav>
     {{ template "main" . }}
 
-    <footer class="mv4 montserrat ttu tc snow tracked b">
-      <a target="_blank" href="https://github.com/andyfreer/awesome-dash-platform" class="snow no-underline">Github</a> |
-      <a target="_blank" href="https://github.com/andyfreer/awesome-dash-platform/blob/master/CONTRIBUTING.md" class="snow no-underline"> Get Listed</a> |
-      <a target="_blank" href="https://www.dash.org" class="snow no-underline">Dash.org</a>
-    </footer>
   </div>
+  <footer class="mt2 pv4 w-90 mw9 center montserrat ttu snow tracked b bg-dark-blue">
+    <nav class="ph3" style="column-width: 12em">
+      {{ range .Site.Menus.footer }}
+        <a target="_blank" class="snow no-underline db" href="{{ .URL }}">{{ .Name }}</a>
+      {{ end }}
+    </nav>
+  </footer>
   <script src='{{ .Site.BaseURL }}/app.js'></script>
 </body>
 </html>

@@ -1,0 +1,15 @@
+baseurl: ''
+relativeurls: true
+languageCode: en
+pluralizelisttitles: false
+removePathAccents: true
+title: Awesome Dash Platform
+
+disableKinds:
+  - taxonomyTerm
+
+params:
+  Description: >-
+    Useful resources for building things on top of Dash Platform
+  Image: >-
+    https://dashdevs.org/images/brand/dash_logo_2018_rgb_for_screens.png
