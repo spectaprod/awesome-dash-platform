@@ -65,20 +65,20 @@ Readme and the website are automatically generated. In order to add an element t
 
 ## Tools
 
-- [Block Explorer (Core)](http://devnet-evonet-1117662964.us-west-2.elb.amazonaws.com:3001/insight/) - Core Network Blocks (Layer 1), for Currency, Identity and Credit Transactions [Source](https://github.com/dashevo/insight-ui)
+- [Block Explorer (Core)](http://devnet-evonet-28309188.us-west-2.elb.amazonaws.com:3001/insight/) - Core Network Blocks (Layer 1), for Currency, Identity and Credit Transactions [Source](https://github.com/dashevo/insight-ui)
 - [Block Explorer (Platform)](https://github.com/dappforce/dappforce-tendermint-explorer) - Masternode Network blocks (Layer 2), for State Transitions
 - [DAPI Client Python](https://github.com/thephez/dapi-client-py) - A very basic, read-only DAPI client.
 - [Dash Masternode Deployment Tool](https://github.com/strophy/dash-masternode-docker) - This tool deploys a Dash masternode to the current host.
 - [Dash Network Deploy](https://github.com/dashevo/dash-network-deploy) - This tool assists in deploying and managing Dash networks.
-- [EvoNet Faucet](http://devnet-evonet-1117662964.us-west-2.elb.amazonaws.com/) - Get EvoNet coins to test with
+- [EvoNet Faucet](http://devnet-evonet-28309188.us-west-2.elb.amazonaws.com/) - Get EvoNet coins to test with
 - [Platform Console](https://dash-platform-console.now.sh/identities) - Explore & Update Platform State (WIP) [Source](https://github.com/denlb/dash-platform-console)
 
 ## Videos
 
 - 2020-01-06: [DASH EvoNet Review](https://www.youtube.com/watch?v=Vs3cjw51o4w) - Today we are taking a look at the Dash Evonet which is a development network provided for experimentation and evaluation of Dash Platform features.
-- 2019-12-11: [Introduction To Dash Platform - Dana Alibrandi](https://www.youtube.com/watch?v=WNoMSP0nPDQ) - Dana Alibrandi introduces Dash Platform and its functionality
 - 2019-12-11: [DashPay Wallet - Brian Foster](https://www.youtube.com/watch?v=wkBFcWbsXtQ) - Brian Foster describes the development and features of the "Evolution" DashPay Wallet
 - 2019-12-11: [Dash Evolution Open House Analysis | Tao & Amanda LIVE!](https://www.youtube.com/watch?v=PFIOm9KO5sA) - Join the team from Dash Core Group for an open discussion of the upcoming Dash Platform and Dashpay-enabled wallets release, commonly known as Evolution.
+- 2019-12-11: [Introduction To Dash Platform - Dana Alibrandi](https://www.youtube.com/watch?v=WNoMSP0nPDQ) - Dana Alibrandi introduces Dash Platform and its functionality
 - 2019-12-09: [Dash Evolution Open House 2019](https://www.youtube.com/watch?v=ie7fJMw5WIo) - Join the team from Dash Core Group for an open discussion of the upcoming Dash Platform and Dashpay-enabled wallets release, commonly known as Evolution.
 - 2019-11-22: [What is Dash Platform?](https://www.youtube.com/watch?v=8jI7Nt3lILs) - The Cryptoviser analysis of Dash Platform
 - 2019-10-31: [Understanding Dash Platform and Chain - Expert Followup](https://www.youtube.com/watch?v=Vb3KwVxPE84) - Christopher sits down with Dash Product Manager Dana Alibrandi and Dash Core Developer Ivan Shumkov to get into more technical details about the Dash Platform's concepts
@@ -92,10 +92,12 @@ Readme and the website are automatically generated. In order to add an element t
 ## Bounties
 
 - [C# DAPI Bindings](https://trello.com/c/6qVaLYmo/16-c-dapi-bindings) 
+- [Community EvoNet MN Hosting](https://trello.com/c/rzjc7eY1/26-community-evonet-mn-hosting) 
+- [Create Hello World Tutorial](https://trello.com/c/wEawlJb2/23-create-hello-world-tutorial) 
 - [DashDevs.org Work](https://trello.com/c/iN58zxs0/19-dashdevsorg-work) 
 - [Golang DAPI Bindings](https://trello.com/c/ErETMzMX/21-golang-dapi-bindings) 
 - [Memo Dash Dapp](https://trello.com/c/Kzn8JX12/12-memo-dash-dapp) 
-- [Platform Console](https://trello.com/c/hLLhWYJJ/25-platform-console-fork-to-dashjs-and-finish-sandbox-prototype) 
+- [Platform Console](https://trello.com/c/Xezls3IC/9-platform-console-fork-to-dashjs-and-finish-sandbox-prototype) 
 - [Python DAPI Bindings](https://trello.com/c/o7Rf2ETW/15-python-dapi-bindings) 
 - [Python DAPI Bindings](https://trello.com/c/o7Rf2ETW/15-python-dapi-bindings) 
 - [RUST DAPI Bindings](https://trello.com/c/7EwpLxKZ/13-rust-bindings) 
