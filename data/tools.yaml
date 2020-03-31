@@ -15,7 +15,7 @@ content:
   picture: /images/tools/platform_console.png
 - title: Block Explorer (Platform)
   source: https://github.com/dappforce/dappforce-tendermint-explorer
-  website: https://github.com/dappforce/dappforce-tendermint-explorer
+  website: https://pce.cloudwheels.net/
   description: Masternode Network blocks (Layer 2), for State Transitions
   picture: /images/tools/l2_explorer.png
 - title: Block Explorer (Core)
