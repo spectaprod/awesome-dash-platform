@@ -52,7 +52,7 @@ Readme and the website are automatically generated. In order to add an element t
 - [DashPay](https://github.com/dashevo) - Mobile Dapp enabling Username based payments and Platform authentication (WIP)
 - [DPNS](https://dashplatform.readme.io/docs/explanation-dpns) - Name Service Dapp providing Usernames for Dash Blockchain Identities (LIVE) [Source](https://github.com/dashevo/js-dpp/tree/v0.11-dev/schema/identity)
 - [Masternode Polling Tool](https://chat.dashdevs.org) - Polling Masternodes for Decisions (IDEA)
-- [MemoDash](https://github.com/dashevo/memo-dash-prototype) - Decentralized Twitter Alternative Dapp in REACT (BOUNTY)
+- [MemoDash](https://memo.dashdevs.org/) - Decentralized Twitter Alternative Dapp in REACT (BOUNTY) [Source](https://github.com/alexdcox/memo-dash-prototype)
 - [Merchant Directory](https://app.dashnexus.org/proposals/dash-platform-merchant-directory/overview) - Merchant Directory Dapp (PROPOSAL)
 
 ## Docs
@@ -66,12 +66,12 @@ Readme and the website are automatically generated. In order to add an element t
 ## Tools
 
 - [Block Explorer (Core)](http://devnet-evonet-28309188.us-west-2.elb.amazonaws.com:3001/insight/) - Core Network Blocks (Layer 1), for Currency, Identity and Credit Transactions [Source](https://github.com/dashevo/insight-ui)
-- [Block Explorer (Platform)](https://github.com/dappforce/dappforce-tendermint-explorer) - Masternode Network blocks (Layer 2), for State Transitions
+- [Block Explorer (Platform)](https://pce.cloudwheels.net/) - Masternode Network blocks (Layer 2), for State Transitions [Source](https://github.com/dappforce/dappforce-tendermint-explorer)
 - [DAPI Client Python](https://github.com/thephez/dapi-client-py) - A very basic, read-only DAPI client.
 - [Dash Masternode Deployment Tool](https://github.com/strophy/dash-masternode-docker) - This tool deploys a Dash masternode to the current host.
 - [Dash Network Deploy](https://github.com/dashevo/dash-network-deploy) - This tool assists in deploying and managing Dash networks.
 - [EvoNet Faucet](http://devnet-evonet-28309188.us-west-2.elb.amazonaws.com/) - Get EvoNet coins to test with
-- [Platform Console](https://dash-platform-console.now.sh/identities) - Explore & Update Platform State (WIP) [Source](https://github.com/denlb/dash-platform-console)
+- [Platform Console](http://console.dashevo.io/#/wallet) - Explore & Update Platform State (WIP) [Source](https://github.com/denlb/dash-platform-console)
 
 ## Videos
 
