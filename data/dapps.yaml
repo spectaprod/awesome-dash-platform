@@ -17,8 +17,8 @@ content:
     description: >
       Mobile Dapp enabling Username based payments and Platform authentication (WIP)
   - title: MemoDash
-    website: https://github.com/dashevo/memo-dash-prototype
-    source: https://github.com/dashevo/memo-dash-prototype
+    website: https://memo.dashdevs.org/
+    source: https://github.com/alexdcox/memo-dash-prototype
     picture: /images/dapps/dapp.png
     description: >
       Decentralized Twitter Alternative Dapp in REACT (BOUNTY)
