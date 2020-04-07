@@ -10,7 +10,7 @@ content:
   picture: /images/tools/evonet_faucet.png
 - title: Platform Console
   source: https://github.com/denlb/dash-platform-console
-  website: https://dash-platform-console.now.sh/identities
+  website: http://console.dashevo.io/#/wallet
   description: Explore & Update Platform State (WIP)
   picture: /images/tools/platform_console.png
 - title: Block Explorer (Platform)
