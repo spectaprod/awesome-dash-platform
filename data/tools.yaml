@@ -5,7 +5,7 @@ description: Tools for developing with Dash Platform.
 weight: 5
 content:
 - title: EvoNet Faucet
-  website: http://devnet-evonet-28309188.us-west-2.elb.amazonaws.com/
+  website: http://faucet.evonet.networks.dash.org/
   description: Get EvoNet coins to test with
   picture: /images/tools/evonet_faucet.png
 - title: Platform Console
@@ -20,7 +20,7 @@ content:
   picture: /images/tools/l2_explorer.png
 - title: Block Explorer (Core)
   source: https://github.com/dashevo/insight-ui
-  website: http://devnet-evonet-28309188.us-west-2.elb.amazonaws.com:3001/insight/
+  website: http://insight.evonet.networks.dash.org:3001/insight/
   description: Core Network Blocks (Layer 1), for Currency, Identity and Credit Transactions
   picture: /images/tools/l1_explorer.png
 - title: Dash Network Deploy

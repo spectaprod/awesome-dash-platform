@@ -65,12 +65,12 @@ Readme and the website are automatically generated. In order to add an element t
 
 ## Tools
 
-- [Block Explorer (Core)](http://devnet-evonet-28309188.us-west-2.elb.amazonaws.com:3001/insight/) - Core Network Blocks (Layer 1), for Currency, Identity and Credit Transactions [Source](https://github.com/dashevo/insight-ui)
+- [Block Explorer (Core)](http://insight.evonet.networks.dash.org:3001/insight/) - Core Network Blocks (Layer 1), for Currency, Identity and Credit Transactions [Source](https://github.com/dashevo/insight-ui)
 - [Block Explorer (Platform)](https://pce.cloudwheels.net/) - Masternode Network blocks (Layer 2), for State Transitions [Source](https://github.com/dappforce/dappforce-tendermint-explorer)
 - [DAPI Client Python](https://github.com/thephez/dapi-client-py) - A very basic, read-only DAPI client.
 - [Dash Masternode Deployment Tool](https://github.com/strophy/dash-masternode-docker) - This tool deploys a Dash masternode to the current host.
 - [Dash Network Deploy](https://github.com/dashevo/dash-network-deploy) - This tool assists in deploying and managing Dash networks.
-- [EvoNet Faucet](http://devnet-evonet-28309188.us-west-2.elb.amazonaws.com/) - Get EvoNet coins to test with
+- [EvoNet Faucet](http://faucet.evonet.networks.dash.org/) - Get EvoNet coins to test with
 - [Platform Console](http://console.dashevo.io/#/wallet) - Explore & Update Platform State (WIP) [Source](https://github.com/denlb/dash-platform-console)
 
 ## Videos
