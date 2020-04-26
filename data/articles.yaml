@@ -4,6 +4,11 @@ icon: stroke_pencil
 description: Articles about Dash Platform.
 weight: 1
 content:
+  - title: Announcing the Release of Dash Platform v0.12 on Evonet
+    date: "2020-04-23"
+    website: https://blog.dash.org/announcing-the-release-of-dash-platform-v0-12-on-evonet-e611f2a93ce3
+    description: Dash Blog
+    picture: /images/articles/platform_012_release.png
   - title: Announcing the Release of Dash Platform v0.11
     date: "2020-03-18"
     website: https://blog.dash.org/announcing-the-release-of-dash-platform-v0-11-d1b7238ed0e6
