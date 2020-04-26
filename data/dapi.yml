@@ -31,6 +31,10 @@ content:
     description: The purpose of this tutorial is to walk through the steps necessary to register a Dash
       Platform Name Service (DPNS) name.
     picture: /images/dapi/readme_io.png
+  - title: Register a Data Contract
+    website: https://dashplatform.readme.io/docs/tutorial-register-a-data-contract
+    description: In this tutorial we will register a data contract.
+    picture: /images/dapi/readme_io.png
   - title: Submit Documents
     website: https://dashplatform.readme.io/docs/tutorial-submit-documents
     description: Data is stored in the form of Documents which are entities
