@@ -8,6 +8,10 @@ content:
     website: https://dashevo.github.io/DashJS/#/
     description: Connect to Dash from a Browser / NodeJS Server using Dash's Decentralized-API
     picture: /images/brand/dashjs.png
+  - title: Platform-UserID Secure Messaging Library
+    website: https://www.npmjs.com/package/dashmachine-crypto
+    description: secure messaging between UserIDs (unique references to an individual name registration by an identity) from JS clients
+    picture: /images/marks/GitHub-Mark.png
   - title: Connecting to Evonet
     website: https://dashplatform.readme.io/docs/tutorial-connecting-to-evonet
     description: The purpose of this tutorial is to walk through the steps necessary to access Dash's Decentralized API (DAPI)
