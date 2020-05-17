@@ -4,25 +4,49 @@ icon: stroke_code
 description: Tools for developing with Dash Platform.
 weight: 5
 content:
+- title: EvoNet Auto-Faucet
+  website: https://csb-k2nzi.netlify.app/
+  source: https://github.com/riongull/dash-faucet-UI
+  description: Get EvoNet coins to test with (automated)
+  picture: /images/marks/GitHub-Mark.png
 - title: EvoNet Faucet
   website: http://faucet.evonet.networks.dash.org/
-  description: Get EvoNet coins to test with
+  description: Get EvoNet coins to test with, uses captcha
   picture: /images/tools/evonet_faucet.png
+- title: Chrome Wallet
+  website: https://github.com/readme55/Dash-Chrome-Wallet/releases/tag/DashChromeWallet-v1.3
+  description: An alternative Platform Wallet implementation created as an extension for Chrome / Firefox
+  picture: /images/marks/GitHub-Mark.png
+- title: Evo Wallet (WIP)
+  website: http://evowallet.io/
+  source: https://github.com/evowallet/evowallet
+  description: An alternative Platform Wallet implementation created as a pure Webapp
+  picture: /images/marks/GitHub-Mark.png
 - title: Platform Console
   source: https://github.com/denlb/dash-platform-console
   website: http://console.dashevo.io/#/wallet
   description: Explore & Update Platform State (WIP)
   picture: /images/tools/platform_console.png
-- title: Block Explorer (Platform)
+- title: Platform Explorer (L2)
   source: https://github.com/dappforce/dappforce-tendermint-explorer
   website: https://pce.cloudwheels.net/
-  description: Masternode Network blocks (Layer 2), for State Transitions
+  description: Platform chaion explorer plus State Transitions and user data
   picture: /images/tools/l2_explorer.png
-- title: Block Explorer (Core)
+- title: Block Explorer (L1)
   source: https://github.com/dashevo/insight-ui
   website: http://insight.evonet.networks.dash.org:3001/insight/
   description: Core Network Blocks (Layer 1), for Currency, Identity and Credit Transactions
   picture: /images/tools/l1_explorer.png
+- title: Pay-To-Username tipping POC
+  source: https://github.com/dashmachine/tipping
+  website: http://tipping.dashmachine.net/
+  description: POC for one username to tip another blindly (without needing a contacting process or any communication between the usernames)
+  picture: /images/marks/GitHub-Mark.png
+- title: Get Identitfy from mnemonic
+  source: https://github.com/dashmachine/identity-from-mnemonic
+  website: http://getidentity.dashmachine.net/
+  description: JS Library code to input a mnemonic on a client (including browser) and query/return the user identity from the network
+  picture: /images/marks/GitHub-Mark.png
 - title: Dash Network Deploy
   source: https://github.com/dashevo/dash-network-deploy
   website: https://github.com/dashevo/dash-network-deploy
@@ -34,8 +58,8 @@ content:
   description: This tool deploys a Dash masternode to the current host.
   picture: /images/marks/GitHub-Mark.png
 - title: DAPI Client Python
-  source: https://github.com/thephez/dapi-client-py
-  website: https://github.com/thephez/dapi-client-py
-  description: A very basic, read-only DAPI client.
+  source: https://github.com/10xcryptodev/dapi-client-py
+  website: https://github.com/10xcryptodev/dapi-client-py
+  description: Basic DAPI client in Python
   picture: /images/marks/GitHub-Mark.png
 
