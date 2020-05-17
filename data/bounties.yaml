@@ -4,17 +4,42 @@ icon: stroke_pencil
 description: Bounties for Dash Platform tools, resource and Dapps.
 weight: 7
 content:
+
+  - title: Golang DAPI Bindings
+    website: https://trello.com/c/ErETMzMX/21-golang-dapi-bindings
+    picture: /images/bounties/bounty.png
+  - title: C# DAPI Bindings
+    website: https://trello.com/c/6qVaLYmo/16-c-dapi-bindings
+    picture: /images/bounties/bounty.png
+  - title: Rust DAPI Bindings
+    website: https://trello.com/c/7EwpLxKZ/13-rust-dapi-bindings
+    picture: /images/bounties/bounty.png
+  - title: EvoWallet
+    website: https://trello.com/c/MJrfbOp3/33-evowallet
+    picture: /images/bounties/bounty.png
+  - title: Platform Explorer
+    website: https://trello.com/c/ezAfj6lG/18-platform-explorer
+    picture: /images/bounties/bounty.png
+  - title: Platform-UserID Secure Messaging Library
+    website: https://trello.com/c/qPtO4KF9/42-platform-userid-secure-messaging-library
+    picture: /images/bounties/bounty.png
+  - title: Dapp-Dev Forum
+    website: https://trello.com/c/OpGFYBa4/41-dapp-dev-forum
+    picture: /images/bounties/bounty.png
   - title: Create Hello World Tutorial
     website: https://trello.com/c/wEawlJb2/23-create-hello-world-tutorial
-    picture: /images/bounties/bounty.png
-  - title: Platform Console
-    website: https://trello.com/c/Xezls3IC/9-platform-console-fork-to-dashjs-and-finish-sandbox-prototype
     picture: /images/bounties/bounty.png
   - title: Memo Dash Dapp
     website: https://trello.com/c/Kzn8JX12/12-memo-dash-dapp
     picture: /images/bounties/bounty.png
-  - title: Tendermint Block Explorer
-    website: https://trello.com/c/ezAfj6lG/18-tendermint-block-explorer
+  - title: Web Dapp Sample
+    website: https://trello.com/c/MsnBjQ15/29-web-dapp-sample
+    picture: /images/bounties/bounty.png
+  - title: Chrome Wallet
+    website: https://trello.com/c/XAwKVTjL/28-chrome-wallet
+    picture: /images/bounties/bounty.png
+  - title: Automated Faucet
+    website: https://trello.com/c/SoO5dtDj/32-automated-faucet
     picture: /images/bounties/bounty.png
   - title: DashDevs.org Work
     website: https://trello.com/c/iN58zxs0/19-dashdevsorg-work
@@ -22,18 +47,18 @@ content:
   - title: Python DAPI Bindings
     website: https://trello.com/c/o7Rf2ETW/15-python-dapi-bindings
     picture: /images/bounties/bounty.png
-  - title: C# DAPI Bindings
-    website: https://trello.com/c/6qVaLYmo/16-c-dapi-bindings
+  - title: Platform Console
+    website: https://trello.com/c/Xezls3IC/9-platform-console
     picture: /images/bounties/bounty.png
-  - title: RUST DAPI Bindings
-    website: https://trello.com/c/7EwpLxKZ/13-rust-bindings
+  - title: Get Identity from Mnemonic
+    website: https://trello.com/c/LoFua90X/44-get-identity-from-mnemonic
     picture: /images/bounties/bounty.png
-  - title: Python DAPI Bindings
-    website: https://trello.com/c/o7Rf2ETW/15-python-dapi-bindings
-    picture: /images/bounties/bounty.png
-  - title: Golang DAPI Bindings
-    website: https://trello.com/c/ErETMzMX/21-golang-dapi-bindings
+  - title: Pay-To-Username tipping POC
+    website: https://trello.com/c/ojljh1EP/36-pay-to-username-tipping-poc
     picture: /images/bounties/bounty.png
   - title: Community EvoNet MN Hosting
     website: https://trello.com/c/rzjc7eY1/26-community-evonet-mn-hosting
+    picture: /images/bounties/bounty.png
+  - title: Dash Emojis for Discord
+    website: https://trello.com/c/BhXzmXez/7-dash-emojis-for-discord
     picture: /images/bounties/bounty.png
