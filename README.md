@@ -26,6 +26,7 @@ Readme and the website are automatically generated. In order to add an element t
 
 ## Articles
 
+- 2020-04-23: [Announcing the Release of Dash Platform v0.12 on Evonet](https://blog.dash.org/announcing-the-release-of-dash-platform-v0-12-on-evonet-e611f2a93ce3) - Dash Blog
 - 2020-03-18: [Announcing the Release of Dash Platform v0.11](https://blog.dash.org/announcing-the-release-of-dash-platform-v0-11-d1b7238ed0e6) - Dash Blog
 - 2019-12-30: [Announcing the Release of Dash Platform on Evonet](https://blog.dash.org/announcing-the-release-of-dash-platform-on-evonet-c5a94dee0e59) - Dash Blog
 - 2019-12-30: [Long-Awaited Dash Evolution Platform Released on Testnet](https://dashnews.org/long-awaited-dash-evolution-platform-released-on-testnet-with-developer-documentation-hub/) - Dash News
@@ -40,6 +41,8 @@ Readme and the website are automatically generated. In order to add an element t
 - [Connecting to Evonet](https://dashplatform.readme.io/docs/tutorial-connecting-to-evonet) - The purpose of this tutorial is to walk through the steps necessary to access Dash's Decentralized API (DAPI)
 - [Create and Fund a Wallet](https://dashplatform.readme.io/docs/tutorial-create-and-fund-a-wallet) - This tutorial explains how to generate a new wallet, retrieve an address from it, and transfer test funds to the address from a faucet.
 - [DashJS](https://dashevo.github.io/DashJS/#/) - Connect to Dash from a Browser / NodeJS Server using Dash's Decentralized-API
+- [Platform-UserID Secure Messaging Library](https://www.npmjs.com/package/dashmachine-crypto) - secure messaging between UserIDs (unique references to an individual name registration by an identity) from JS clients
+- [Register a Data Contract](https://dashplatform.readme.io/docs/tutorial-register-a-data-contract) - In this tutorial we will register a data contract.
 - [Register a Name for an Identity](https://dashplatform.readme.io/docs/tutorial-register-a-name-for-an-identity) - The purpose of this tutorial is to walk through the steps necessary to register a Dash Platform Name Service (DPNS) name.
 - [Register an Identity](https://dashplatform.readme.io/docs/tutorial-register-an-identity) - Identities serve as the basis for interactions with Dash Platform. The purpose of this tutorial is to walk through the steps necessary to register a user identity.
 - [Retrieve Documents](https://dashplatform.readme.io/docs/tutorial-retrieve-documents) - In this tutorial we will retrieve some of the current data from a data contract.
@@ -48,12 +51,12 @@ Readme and the website are automatically generated. In order to add an element t
 
 ## Dapps
 
-- [Dash Chrome-Wallet](https://github.com/readme55/Dash-Chrome-Wallet) - Chrome-Extension Cryptocurrency Wallet for the Dash EvoNet-Testnet environment (WIP)
 - [DashPay](https://github.com/dashevo) - Mobile Dapp enabling Username based payments and Platform authentication (WIP)
 - [DPNS](https://dashplatform.readme.io/docs/explanation-dpns) - Name Service Dapp providing Usernames for Dash Blockchain Identities (LIVE) [Source](https://github.com/dashevo/js-dpp/tree/v0.11-dev/schema/identity)
-- [Masternode Polling Tool](https://chat.dashdevs.org) - Polling Masternodes for Decisions (IDEA)
-- [MemoDash](https://memo.dashdevs.org/) - Decentralized Twitter Alternative Dapp in REACT (BOUNTY) [Source](https://github.com/alexdcox/memo-dash-prototype)
-- [Merchant Directory](https://app.dashnexus.org/proposals/dash-platform-merchant-directory/overview) - Merchant Directory Dapp (PROPOSAL)
+- [Masternode Polling Tool (Proposal)](https://chat.dashdevs.org) - Polling Masternodes for Decisions (IDEA)
+- [MemoDash (WIP)](https://memo.dashdevs.org/) - Decentralized Twitter Alternative Dapp in REACT (BOUNTY) [Source](https://github.com/alexdcox/memo-dash-prototype)
+- [Merchant Directory (Proposal)](https://app.dashnexus.org/proposals/dash-platform-merchant-directory/overview) - Merchant Directory Dapp (PROPOSAL)
+- [Web Dapp Sample](http://wds.dashmachine.net:8082/) - Sample Web Dapp enabling signup, login and tweet using a Dash username, use in conjunction with a Platform Wallet on EvoNet [Source](https://github.com/dashmachine/web-dapp-sample)
 
 ## Docs
 
@@ -65,13 +68,18 @@ Readme and the website are automatically generated. In order to add an element t
 
 ## Tools
 
-- [Block Explorer (Core)](http://insight.evonet.networks.dash.org:3001/insight/) - Core Network Blocks (Layer 1), for Currency, Identity and Credit Transactions [Source](https://github.com/dashevo/insight-ui)
-- [Block Explorer (Platform)](https://pce.cloudwheels.net/) - Masternode Network blocks (Layer 2), for State Transitions [Source](https://github.com/dappforce/dappforce-tendermint-explorer)
-- [DAPI Client Python](https://github.com/thephez/dapi-client-py) - A very basic, read-only DAPI client.
+- [Block Explorer (L1)](http://insight.evonet.networks.dash.org:3001/insight/) - Core Network Blocks (Layer 1), for Currency, Identity and Credit Transactions [Source](https://github.com/dashevo/insight-ui)
+- [Chrome Wallet](https://github.com/readme55/Dash-Chrome-Wallet/releases/tag/DashChromeWallet-v1.3) - An alternative Platform Wallet implementation created as an extension for Chrome / Firefox
+- [DAPI Client Python](https://github.com/10xcryptodev/dapi-client-py) - Basic DAPI client in Python
 - [Dash Masternode Deployment Tool](https://github.com/strophy/dash-masternode-docker) - This tool deploys a Dash masternode to the current host.
 - [Dash Network Deploy](https://github.com/dashevo/dash-network-deploy) - This tool assists in deploying and managing Dash networks.
-- [EvoNet Faucet](http://faucet.evonet.networks.dash.org/) - Get EvoNet coins to test with
+- [Evo Wallet (WIP)](http://evowallet.io/) - An alternative Platform Wallet implementation created as a pure Webapp [Source](https://github.com/evowallet/evowallet)
+- [EvoNet Auto-Faucet](https://csb-k2nzi.netlify.app/) - Get EvoNet coins to test with (automated) [Source](https://github.com/riongull/dash-faucet-UI)
+- [EvoNet Faucet](http://faucet.evonet.networks.dash.org/) - Get EvoNet coins to test with, uses captcha
+- [Get Identitfy from mnemonic](http://getidentity.dashmachine.net/) - JS Library code to input a mnemonic on a client (including browser) and query/return the user identity from the network [Source](https://github.com/dashmachine/identity-from-mnemonic)
+- [Pay-To-Username tipping POC](http://tipping.dashmachine.net/) - POC for one username to tip another blindly (without needing a contacting process or any communication between the usernames) [Source](https://github.com/dashmachine/tipping)
 - [Platform Console](http://console.dashevo.io/#/wallet) - Explore & Update Platform State (WIP) [Source](https://github.com/denlb/dash-platform-console)
+- [Platform Explorer (L2)](https://pce.cloudwheels.net/) - Platform chaion explorer plus State Transitions and user data [Source](https://github.com/dappforce/dappforce-tendermint-explorer)
 
 ## Videos
 
@@ -91,17 +99,25 @@ Readme and the website are automatically generated. In order to add an element t
 
 ## Bounties
 
+- [Automated Faucet](https://trello.com/c/SoO5dtDj/32-automated-faucet) 
 - [C# DAPI Bindings](https://trello.com/c/6qVaLYmo/16-c-dapi-bindings) 
+- [Chrome Wallet](https://trello.com/c/XAwKVTjL/28-chrome-wallet) 
 - [Community EvoNet MN Hosting](https://trello.com/c/rzjc7eY1/26-community-evonet-mn-hosting) 
 - [Create Hello World Tutorial](https://trello.com/c/wEawlJb2/23-create-hello-world-tutorial) 
+- [Dapp-Dev Forum](https://trello.com/c/OpGFYBa4/41-dapp-dev-forum) 
+- [Dash Emojis for Discord](https://trello.com/c/BhXzmXez/7-dash-emojis-for-discord) 
 - [DashDevs.org Work](https://trello.com/c/iN58zxs0/19-dashdevsorg-work) 
+- [EvoWallet](https://trello.com/c/MJrfbOp3/33-evowallet) 
+- [Get Identity from Mnemonic](https://trello.com/c/LoFua90X/44-get-identity-from-mnemonic) 
 - [Golang DAPI Bindings](https://trello.com/c/ErETMzMX/21-golang-dapi-bindings) 
 - [Memo Dash Dapp](https://trello.com/c/Kzn8JX12/12-memo-dash-dapp) 
-- [Platform Console](https://trello.com/c/Xezls3IC/9-platform-console-fork-to-dashjs-and-finish-sandbox-prototype) 
+- [Pay-To-Username tipping POC](https://trello.com/c/ojljh1EP/36-pay-to-username-tipping-poc) 
+- [Platform Console](https://trello.com/c/Xezls3IC/9-platform-console) 
+- [Platform Explorer](https://trello.com/c/ezAfj6lG/18-platform-explorer) 
+- [Platform-UserID Secure Messaging Library](https://trello.com/c/qPtO4KF9/42-platform-userid-secure-messaging-library) 
 - [Python DAPI Bindings](https://trello.com/c/o7Rf2ETW/15-python-dapi-bindings) 
-- [Python DAPI Bindings](https://trello.com/c/o7Rf2ETW/15-python-dapi-bindings) 
-- [RUST DAPI Bindings](https://trello.com/c/7EwpLxKZ/13-rust-bindings) 
-- [Tendermint Block Explorer](https://trello.com/c/ezAfj6lG/18-tendermint-block-explorer) 
+- [Rust DAPI Bindings](https://trello.com/c/7EwpLxKZ/13-rust-dapi-bindings) 
+- [Web Dapp Sample](https://trello.com/c/MsnBjQ15/29-web-dapp-sample) 
 
 ## Discussions
 
