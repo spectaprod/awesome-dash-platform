@@ -4,6 +4,12 @@ icon: stroke_marketing
 description: Dapps under development for Dash Platform
 weight: 3
 content:
+  - title: Web Dapp Sample
+    website: http://wds.dashmachine.net:8082/
+    source: https://github.com/dashmachine/web-dapp-sample
+    picture: /images/dapps/dapp.png
+    description: >
+      Sample Web Dapp enabling signup, login and tweet using a Dash username, use in conjunction with a Platform Wallet on EvoNet
   - title: DPNS
     website: https://dashplatform.readme.io/docs/explanation-dpns
     source: https://github.com/dashevo/js-dpp/tree/v0.11-dev/schema/identity
@@ -16,24 +22,18 @@ content:
     picture: /images/dapps/dapp.png
     description: >
       Mobile Dapp enabling Username based payments and Platform authentication (WIP)
-  - title: MemoDash
+  - title: MemoDash (WIP)
     website: https://memo.dashdevs.org/
     source: https://github.com/alexdcox/memo-dash-prototype
     picture: /images/dapps/dapp.png
     description: >
       Decentralized Twitter Alternative Dapp in REACT (BOUNTY)
-  - title: Dash Chrome-Wallet
-    website: https://github.com/readme55/Dash-Chrome-Wallet
-    source: https://github.com/readme55/Dash-Chrome-Wallet
-    picture: /images/dapps/dapp.png
-    description: >
-      Chrome-Extension Cryptocurrency Wallet for the Dash EvoNet-Testnet environment (WIP)
-  - title: Merchant Directory
+  - title: Merchant Directory (Proposal)
     website: https://app.dashnexus.org/proposals/dash-platform-merchant-directory/overview
     picture: /images/dapps/dapp.png
     description: >
       Merchant Directory Dapp (PROPOSAL)
-  - title: Masternode Polling Tool
+  - title: Masternode Polling Tool (Proposal)
     website: https://chat.dashdevs.org
     picture: /images/dapps/dapp.png
     description: >
