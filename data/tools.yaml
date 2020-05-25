@@ -62,4 +62,8 @@ content:
   website: https://github.com/10xcryptodev/dapi-client-py
   description: Basic DAPI client in Python
   picture: /images/marks/GitHub-Mark.png
-
+- title: DAPI Client C#
+  source: https://github.com/10xcryptodev/dapi-client-csharp
+  website: https://www.nuget.org/packages/dapi-client-csharp/
+  description: Basic DAPI client in C#
+  picture: /images/marks/GitHub-Mark.png
