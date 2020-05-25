@@ -105,6 +105,7 @@ Readme and the website are automatically generated. In order to add an element t
 - [Chrome Wallet](https://trello.com/c/XAwKVTjL/28-chrome-wallet) 
 - [Community EvoNet MN Hosting](https://trello.com/c/rzjc7eY1/26-community-evonet-mn-hosting) 
 - [Create Hello World Tutorial](https://trello.com/c/wEawlJb2/23-create-hello-world-tutorial) 
+- [DAPI Decentralized-HTTPS POC](https://trello.com/c/99FAe1iC/39-dapi-decentralized-https-poc) 
 - [Dapp-Dev Forum](https://trello.com/c/OpGFYBa4/41-dapp-dev-forum) 
 - [Dash Emojis for Discord](https://trello.com/c/BhXzmXez/7-dash-emojis-for-discord) 
 - [DashDevs.org Work](https://trello.com/c/iN58zxs0/19-dashdevsorg-work) 
