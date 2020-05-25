@@ -4,15 +4,14 @@ icon: stroke_pencil
 description: Bounties for Dash Platform tools, resource and Dapps.
 weight: 7
 content:
-
-  - title: Golang DAPI Bindings
-    website: https://trello.com/c/ErETMzMX/21-golang-dapi-bindings
-    picture: /images/bounties/bounty.png
-  - title: C# DAPI Bindings
-    website: https://trello.com/c/6qVaLYmo/16-c-dapi-bindings
+  - title: DAPI Decentralized-HTTPS POC
+    website: https://trello.com/c/99FAe1iC/39-dapi-decentralized-https-poc
     picture: /images/bounties/bounty.png
   - title: Rust DAPI Bindings
     website: https://trello.com/c/7EwpLxKZ/13-rust-dapi-bindings
+    picture: /images/bounties/bounty.png
+  - title: Golang DAPI Bindings
+    website: https://trello.com/c/ErETMzMX/21-golang-dapi-bindings
     picture: /images/bounties/bounty.png
   - title: EvoWallet
     website: https://trello.com/c/MJrfbOp3/33-evowallet
@@ -43,6 +42,9 @@ content:
     picture: /images/bounties/bounty.png
   - title: DashDevs.org Work
     website: https://trello.com/c/iN58zxs0/19-dashdevsorg-work
+    picture: /images/bounties/bounty.png
+  - title: C# DAPI Bindings
+    website: https://trello.com/c/6qVaLYmo/16-c-dapi-bindings
     picture: /images/bounties/bounty.png
   - title: Python DAPI Bindings
     website: https://trello.com/c/o7Rf2ETW/15-python-dapi-bindings
