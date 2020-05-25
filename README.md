@@ -70,6 +70,7 @@ Readme and the website are automatically generated. In order to add an element t
 
 - [Block Explorer (L1)](http://insight.evonet.networks.dash.org:3001/insight/) - Core Network Blocks (Layer 1), for Currency, Identity and Credit Transactions [Source](https://github.com/dashevo/insight-ui)
 - [Chrome Wallet](https://github.com/readme55/Dash-Chrome-Wallet/releases/tag/DashChromeWallet-v1.3) - An alternative Platform Wallet implementation created as an extension for Chrome / Firefox
+- [DAPI Client C#](https://www.nuget.org/packages/dapi-client-csharp/) - Basic DAPI client in C# [Source](https://github.com/10xcryptodev/dapi-client-csharp)
 - [DAPI Client Python](https://github.com/10xcryptodev/dapi-client-py) - Basic DAPI client in Python
 - [Dash Masternode Deployment Tool](https://github.com/strophy/dash-masternode-docker) - This tool deploys a Dash masternode to the current host.
 - [Dash Network Deploy](https://github.com/dashevo/dash-network-deploy) - This tool assists in deploying and managing Dash networks.
