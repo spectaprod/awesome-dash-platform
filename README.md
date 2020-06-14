@@ -26,6 +26,7 @@ Readme and the website are automatically generated. In order to add an element t
 
 ## Articles
 
+- 2020-06-14: [Dash Platform v0.13 on Evonet](https://blog.dash.org/release-announcement-dash-platform-v0-13-on-evonet-53c86b081b64) - Dash Blog
 - 2020-04-23: [Announcing the Release of Dash Platform v0.12 on Evonet](https://blog.dash.org/announcing-the-release-of-dash-platform-v0-12-on-evonet-e611f2a93ce3) - Dash Blog
 - 2020-03-18: [Announcing the Release of Dash Platform v0.11](https://blog.dash.org/announcing-the-release-of-dash-platform-v0-11-d1b7238ed0e6) - Dash Blog
 - 2019-12-30: [Announcing the Release of Dash Platform on Evonet](https://blog.dash.org/announcing-the-release-of-dash-platform-on-evonet-c5a94dee0e59) - Dash Blog
