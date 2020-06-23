@@ -37,6 +37,10 @@ content:
   website: http://insight.evonet.networks.dash.org:3001/insight/
   description: Core Network Blocks (Layer 1), for Currency, Identity and Credit Transactions
   picture: /images/tools/l1_explorer.png
+- title: Platform-UserID Secure Messaging Library
+  source: https://github.com/dashmachine/dash-platform-user
+  description: Standardized modules for secure messaging between UserIDs (unique references to an individual name registration by an identity)
+  picture: /images/marks/GitHub-Mark.png
 - title: Pay-To-Username tipping POC
   source: https://github.com/dashmachine/tipping
   website: http://tipping.dashmachine.net/
@@ -66,4 +70,8 @@ content:
   source: https://github.com/10xcryptodev/dapi-client-csharp
   website: https://www.nuget.org/packages/dapi-client-csharp/
   description: Basic DAPI client in C#
+  picture: /images/marks/GitHub-Mark.png
+- title: DAPI Client Golang
+  source: https://github.com/10xcryptodev/dapi-client-go
+  description: Basic DAPI client in Golang
   picture: /images/marks/GitHub-Mark.png
