@@ -85,10 +85,12 @@ Readme and the website are automatically generated. In order to add an element t
 
 ## Videos
 
+- 2020-06-23: [Why Dash's New Username Demo Video Is Game-Changing](https://lbry.tv/@DigitalCashNetwork:c/DashUsernames:5?r=Gd7GBo8adnW7dSEBDc2pPP8Ytw9Rw3L9) - Recently Dash released a new demo video showing off usernames and how they're registered in the soon-to-be-released DashPay app, the first part of the long-awaited Evolution update, now called Dash Platform.
+- 2020-06-19: [DashPay Username Registration Demo](https://www.youtube.com/watch?v=GtTaezpxQOs) - A demo of the DashPay Username Registration Process.
 - 2020-01-06: [DASH EvoNet Review](https://www.youtube.com/watch?v=Vs3cjw51o4w) - Today we are taking a look at the Dash Evonet which is a development network provided for experimentation and evaluation of Dash Platform features.
+- 2019-12-11: [Introduction To Dash Platform - Dana Alibrandi](https://www.youtube.com/watch?v=WNoMSP0nPDQ) - Dana Alibrandi introduces Dash Platform and its functionality
 - 2019-12-11: [DashPay Wallet - Brian Foster](https://www.youtube.com/watch?v=wkBFcWbsXtQ) - Brian Foster describes the development and features of the "Evolution" DashPay Wallet
 - 2019-12-11: [Dash Evolution Open House Analysis | Tao & Amanda LIVE!](https://www.youtube.com/watch?v=PFIOm9KO5sA) - Join the team from Dash Core Group for an open discussion of the upcoming Dash Platform and Dashpay-enabled wallets release, commonly known as Evolution.
-- 2019-12-11: [Introduction To Dash Platform - Dana Alibrandi](https://www.youtube.com/watch?v=WNoMSP0nPDQ) - Dana Alibrandi introduces Dash Platform and its functionality
 - 2019-12-09: [Dash Evolution Open House 2019](https://www.youtube.com/watch?v=ie7fJMw5WIo) - Join the team from Dash Core Group for an open discussion of the upcoming Dash Platform and Dashpay-enabled wallets release, commonly known as Evolution.
 - 2019-11-22: [What is Dash Platform?](https://www.youtube.com/watch?v=8jI7Nt3lILs) - The Cryptoviser analysis of Dash Platform
 - 2019-10-31: [Understanding Dash Platform and Chain - Expert Followup](https://www.youtube.com/watch?v=Vb3KwVxPE84) - Christopher sits down with Dash Product Manager Dana Alibrandi and Dash Core Developer Ivan Shumkov to get into more technical details about the Dash Platform's concepts

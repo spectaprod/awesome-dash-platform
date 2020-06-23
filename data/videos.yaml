@@ -4,6 +4,18 @@ description: Videos about Dash Platform.
 weight: 6
 icon: stroke_speaker
 content:
+  - title: Why Dash's New Username Demo Video Is Game-Changing
+    date: "2020-06-23"
+    website: https://lbry.tv/@DigitalCashNetwork:c/DashUsernames:5?r=Gd7GBo8adnW7dSEBDc2pPP8Ytw9Rw3L9
+    picture: /images/videos/dcn_dash_username_video.png
+    description: >
+      Recently Dash released a new demo video showing off usernames and how they're registered in the soon-to-be-released DashPay app, the first part of the long-awaited Evolution update, now called Dash Platform.
+  - title: DashPay Username Registration Demo
+    date: "2020-06-19"
+    website: https://www.youtube.com/watch?v=GtTaezpxQOs
+    picture: /images/videos/username_reg_demo.jpg
+    description: >
+      A demo of the DashPay Username Registration Process.
   - title: DASH EvoNet Review
     date: "2020-01-06"
     website: https://www.youtube.com/watch?v=Vs3cjw51o4w
