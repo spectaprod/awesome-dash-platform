@@ -26,6 +26,7 @@ Readme and the website are automatically generated. In order to add an element t
 
 ## Articles
 
+- 2020-07-24: [Dash Platform v0.14 on Evonet](https://blog.dash.org/release-announcement-dash-platform-v0-14-on-evonet-9e02ad97d918) - Dash Blog
 - 2020-06-14: [Dash Platform v0.13 on Evonet](https://blog.dash.org/release-announcement-dash-platform-v0-13-on-evonet-53c86b081b64) - Dash Blog
 - 2020-04-23: [Announcing the Release of Dash Platform v0.12 on Evonet](https://blog.dash.org/announcing-the-release-of-dash-platform-v0-12-on-evonet-e611f2a93ce3) - Dash Blog
 - 2020-03-18: [Announcing the Release of Dash Platform v0.11](https://blog.dash.org/announcing-the-release-of-dash-platform-v0-11-d1b7238ed0e6) - Dash Blog
@@ -87,6 +88,7 @@ Readme and the website are automatically generated. In order to add an element t
 
 ## Videos
 
+- 2020-07-28: [Let's Talk Dash Dapps feat. Chrome Wallet (Ep 1)](https://www.youtube.com/watch?v=IjjsQNd3Zto) - First Episode of Let's Talk Dash Dapp's. A comprehensive introduction to Dash Platform Decentralized-API (DAPI), Usernames and Data-Contracts.
 - 2020-06-23: [Why Dash's New Username Demo Video Is Game-Changing](https://lbry.tv/@DigitalCashNetwork:c/DashUsernames:5?r=Gd7GBo8adnW7dSEBDc2pPP8Ytw9Rw3L9) - Recently Dash released a new demo video showing off usernames and how they're registered in the soon-to-be-released DashPay app, the first part of the long-awaited Evolution update, now called Dash Platform.
 - 2020-06-19: [DashPay Username Registration Demo](https://www.youtube.com/watch?v=GtTaezpxQOs) - A demo of the DashPay Username Registration Process.
 - 2020-01-06: [DASH EvoNet Review](https://www.youtube.com/watch?v=Vs3cjw51o4w) - Today we are taking a look at the Dash Evonet which is a development network provided for experimentation and evaluation of Dash Platform features.

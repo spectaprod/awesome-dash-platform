@@ -4,6 +4,12 @@ description: Videos about Dash Platform.
 weight: 6
 icon: stroke_speaker
 content:
+  - title: Let's Talk Dash Dapps feat. Chrome Wallet (Ep 1)
+    date: "2020-07-28"
+    website: https://www.youtube.com/watch?v=IjjsQNd3Zto
+    picture: /images/videos/readme_ltd_ep1.jpg
+    description: >
+      First Episode of Let's Talk Dash Dapp's. A comprehensive introduction to Dash Platform Decentralized-API (DAPI), Usernames and Data-Contracts.
   - title: Why Dash's New Username Demo Video Is Game-Changing
     date: "2020-06-23"
     website: https://lbry.tv/@DigitalCashNetwork:c/DashUsernames:5?r=Gd7GBo8adnW7dSEBDc2pPP8Ytw9Rw3L9
