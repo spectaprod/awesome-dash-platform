@@ -5,7 +5,7 @@ description: Useful code & tutorials for working with Dash Platform's Decentrali
 weight: 2
 content:
   - title: DashJS
-    website: https://dashevo.github.io/DashJS/#/
+    website: https://dashevo.github.io/js-dash-sdk/#/
     description: Connect to Dash from a Browser / NodeJS Server using Dash's Decentralized-API
     picture: /images/brand/dashjs.png
   - title: Platform-UserID Secure Messaging Library
