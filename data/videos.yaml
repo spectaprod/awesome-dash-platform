@@ -4,6 +4,24 @@ description: Videos about Dash Platform.
 weight: 6
 icon: stroke_speaker
 content:
+  - title: What is Dash Drive? | Dash Platform #2
+    date: "2020-09-25"
+    website: https://www.youtube.com/watch?v=14N5pnl5W0Y
+    picture: /images/videos/abj-what-is-dash-drive.jpg
+    description: >
+      This is episode 2 of a 5 part video series on Dash Platform.
+  - title: Dash is Becoming a Cloud | Dash Platform #1
+    date: "2020-09-18"
+    website: https://www.youtube.com/watch?v=9WqUMrIN58Q
+    picture: /images/videos/abj-dash-cloud.jpg
+    description: >
+      This is episode 1 of a 5 part video series on Dash Platform.
+  - title: Dash Dapps - Demoing Community Development on EvoNet
+    date: "2020-08-17"
+    website: https://www.youtube.com/watch?v=yy8gO1C8fTs
+    picture: /images/videos/dash-community-dapps-demo.jpg
+    description: >
+      Demonstrating community projects built on Dash EvoNet during phase 2 of the Dash Platform Incubator proposal.
   - title: Let's Talk Dash Dapps feat. Chrome Wallet (Ep 1)
     date: "2020-07-28"
     website: https://www.youtube.com/watch?v=IjjsQNd3Zto
