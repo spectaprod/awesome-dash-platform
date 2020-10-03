@@ -4,6 +4,11 @@ icon: stroke_decentralization
 description: Dash Platorm Documentation resources.
 weight: 4
 content:
+  - title: DIP 12
+    website: https://github.com/dashpay/dips/blob/master/dip-0012.md
+    picture: /images/marks/GitHub-Mark.png
+    description: >
+      Dash Improvement Proposal (DIP) 12 on Dash Platform Name Service (DPNS)
   - title: DIP 11
     website: https://github.com/dashpay/dips/blob/master/dip-0011.md
     picture: /images/marks/GitHub-Mark.png
