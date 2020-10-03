@@ -4,6 +4,12 @@ description: Videos about Dash Platform.
 weight: 6
 icon: stroke_speaker
 content:
+  - title: What is Dash's Decentralized API? (DAPI) | Dash Platform #3
+    date: "2020-10-02"
+    website: https://www.youtube.com/watch?v=S0pq-qOu9cQ
+    picture: /images/videos/abj-video-what-is-dapi.jpg
+    description: >
+      This is episode 3 of a 5 part video series on Dash Platform.
   - title: What is Dash Drive? | Dash Platform #2
     date: "2020-09-25"
     website: https://www.youtube.com/watch?v=14N5pnl5W0Y
