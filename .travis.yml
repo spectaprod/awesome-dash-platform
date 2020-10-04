@@ -16,4 +16,4 @@ deploy:
   local_dir: public/
   github_token: $GITHUB_TOKEN
   on:
-    branch: master
+    branch: cloudwheels-master
