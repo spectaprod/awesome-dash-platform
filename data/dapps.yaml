@@ -4,6 +4,12 @@ icon: stroke_marketing
 description: Dapps under development for Dash Platform
 weight: 3
 content:
+  - title: Jembe
+    website: http://jembe.dashevo.io/
+    source: https://github.com/dashameter/jembe
+    picture: /images/dapps/jembe-logo.png
+    description: >
+      Decentralized Twitter Alternative Dapp. Join the Conversation
   - title: DPNS
     website: https://dashplatform.readme.io/docs/explanation-dpns
     source: https://github.com/dashevo/js-dpp/tree/v0.11-dev/schema/identity
