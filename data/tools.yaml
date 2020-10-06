@@ -21,7 +21,7 @@ content:
   website: http://evowallet.io/
   source: https://github.com/evowallet/evowallet
   description: An alternative Platform Wallet implementation created as a pure Webapp
-  picture: /images/marks/GitHub-Mark.png
+  picture: /images/tools/evowallet-logo.png
 - title: Platform Console
   source: https://github.com/denlb/dash-platform-console
   website: http://console.dashevo.io/#/wallet

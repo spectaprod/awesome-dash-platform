@@ -4,6 +4,18 @@ description: Videos about Dash Platform.
 weight: 6
 icon: stroke_speaker
 content:
+  - title: Demo of DashPay Contacts and Notifications
+    date: "2020-09-05"
+    website: https://www.youtube.com/watch?v=pQ3_Q45HdOA
+    picture: /images/videos/dashpay-contacts-and-notifications.jpg
+    description: >
+      This demo shows the contacts and notifications feature in the upcoming Dashpay wallet.
+  - title: Let's Talk Dash Dapps feat. Sample Dapps & Wallet API (Ep 2)
+    date: "2020-08-06"
+    website: https://www.youtube.com/watch?v=76pYX44o_j8&t=7s
+    picture: /images/videos/readme_ltd_ep2.jpg
+    description: >
+      Second Episode of Let's Talk Dash Dapp's. Readme looks at him Sample Dapps Collection that is communicating with Chrome Wallet API to submit data.
   - title: What is Dash's Decentralized API? (DAPI) | Dash Platform #3
     date: "2020-10-02"
     website: https://www.youtube.com/watch?v=S0pq-qOu9cQ
