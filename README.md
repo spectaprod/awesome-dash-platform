@@ -26,6 +26,9 @@ Readme and the website are automatically generated. In order to add an element t
 
 ## Articles
 
+- 2021-03-08: [Release Announcement Dash Platform v0.18 on Testnet](https://blog.dash.org/release-announcement-dash-platform-v0-18-on-testnet-45f421a6bc98) - Dash Blog
+- 2020-12-30: [Release Announcement Dash Platform v0.17 & DashPay on Testnet](https://blog.dash.org/release-announcement-dash-platform-v0-17-dashpay-on-testnet-13a85225902e) - Dash Blog
+- 2020-09-30: [Release Announcement Dash Core v0.16 on Mainnet](https://blog.dash.org/release-announcement-dash-core-v0-16-on-mainnet-870aa327240b) - Dash Blog
 - 2020-09-05: [Dash Platform v0.15 on Evonet](https://blog.dash.org/release-announcement-dash-platform-v0-15-on-evonet-88131f9c477b) - Dash Blog
 - 2020-07-24: [Dash Platform v0.14 on Evonet](https://blog.dash.org/release-announcement-dash-platform-v0-14-on-evonet-9e02ad97d918) - Dash Blog
 - 2020-06-14: [Dash Platform v0.13 on Evonet](https://blog.dash.org/release-announcement-dash-platform-v0-13-on-evonet-53c86b081b64) - Dash Blog
