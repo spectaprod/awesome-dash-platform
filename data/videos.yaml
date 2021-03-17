@@ -4,6 +4,36 @@ description: Videos about Dash Platform.
 weight: 6
 icon: stroke_speaker
 content:
+  - title: Dash Podcast 167 with Dash Core Developer Pasta
+    date: "2021-03-12"
+    website: https://www.youtube.com/watch?v=CwN_RDxcpOc&ab_channel=DigitalCashNetwork
+    picture: /images/videos/dash_pod176_thumb.jpg
+    description: >
+      Dash Core Developer and wunderkind at large Pasta comes on the podcast to give an update on what the Core team has been working on with development.
+  - title: Dash Podcast 165 Anton Suprunchuk on Dash Platform Deep Dive
+    date: "2021-02-12"
+    website: https://www.youtube.com/watch?v=rqsWTYbo2Vo&ab_channel=DigitalCashNetwork
+    picture: /images/videos/Anton_suprunchuk_Dash_pod.jpg
+    description: >
+      Dash developer Anton Suprunchuk comes on the Dash Podcast to go into a comprehensive deep dive on Dash Platform.
+  - title: Be a Dash developer by joining Dash Incubator and get paid! 
+    date: "2021-02-04"
+    website: https://youtu.be/eWqgRw46kH0
+    picture: /images/videos/dash_promo.jpg
+    description: >
+      This is a Dash Incubator promotion video.
+  - title: New Dash Investment Could Revolutionize the Whole Cryptocurrency Ecosystem
+    date: "2021-01-14"
+    website: https://www.youtube.com/watch?v=DyTZhMTEFpI&ab_channel=DigitalCashNetwork
+    picture: /images/videos/Dash_revo_thumbnail.jpg
+    description: >
+      The Dash Investment Foundation just made an investment in retail savings app CrayPay. This is why it could have an huge impact on the crypto world.
+  - title: Dash Podcast 162 Dash Developer Alex Werner on Platform "Evolution" Testnet Release!
+    date: "2021-01-01"
+    website: https://www.youtube.com/watch?v=ajx88zPKYNs&ab_channel=DigitalCashNetwork
+    picture: /images/videos/Dash_alex_werner_pod.jpg
+    description: >
+      Dash developer Alex Werner comes on the podcast to talk about Dash Platform testnet release and what it means.
   - title: What is Dash's Decentralized API? (DAPI) | Dash Platform #3
     date: "2020-10-02"
     website: https://www.youtube.com/watch?v=S0pq-qOu9cQ
