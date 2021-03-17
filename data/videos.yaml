@@ -4,6 +4,12 @@ description: Videos about Dash Platform.
 weight: 6
 icon: stroke_speaker
 content:
+  - title: Be a Dash developer by joining Dash Incubator and get paid! 
+    date: "2021-02-04"
+    website: https://youtu.be/eWqgRw46kH0
+    picture: /images/videos/dash_promo.jpg
+    description: > 
+      This is a Dash Incubator promotion video.
   - title: What is Dash's Decentralized API? (DAPI) | Dash Platform #3
     date: "2020-10-02"
     website: https://www.youtube.com/watch?v=S0pq-qOu9cQ
