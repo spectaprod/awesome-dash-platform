@@ -88,8 +88,6 @@ Readme and the website are automatically generated. In order to add an element t
 - [DIP 14](https://github.com/dashpay/dips/blob/master/dip-0014.md) - Dash Improvement Proposal (DIP) 14 Extended Key Derivation using 256-bit Unsigned Integers
 - [DIP 15](https://github.com/dashpay/dips/blob/master/dip-0014.md) - Dash Improvement Proposal (DIP) 15 Introduces DashPay-related DIP 15.
 - [DIP 16](https://github.com/dashpay/dips/blob/master/dip-0016.md) - Dash Improvement Proposal (DIP) 16 Headers First Synchronization on Simple Payment Verification Wallets.
-- [DIP 20](https://github.com/dashpay/dips/blob/master/dip-0020.md) - Dash Improvement Proposal (DIP) 20 document linting (#88).
-- [DIP 21](https://github.com/dashpay/dips/blob/master/dip-0021.md) - Dash Improvement Proposal (DIP) 21 LLMQ DKG Data Sharing.
 - [Platform Developer Guide](https://dashplatform.readme.io/) - Guides and documentation to help you start working with Dash Platform as quickly as possible, as well as support if you get stuck.
 - [Tendermint Core Docs](https://docs.tendermint.com/master/) - Docs for Tendermint, the BFT protocol used on Layer 2 in conjunction with Masternode quorums
 
