@@ -57,11 +57,25 @@ Readme and the website are automatically generated. In order to add an element t
 
 ## Dapps
 
+- [Chrome Wallet](https://github.com/readme55/Dash-Chrome-Wallet) - Chrome extension for wallet, identity, and username creation, along with contract and document retrieval
+- [Connecting Ethereum to Dash Platform](https://succinctsoftware.com/2020/10/18/using-dash-drive-for-storage-in-an-ethereum-app/) - Researching various ways to connect Ethereum to Dash Platform. [Source](https://github.com/DashBridge-io/scaffold-eth/tree/dash-eth-example)
+- [Dash Incubator App](https://dashincubator.app/) - Continuous development to improve the Dash Incubator App itself, including scaling, incentives, autonomous operation, and developer on-boarding. [Source](https://github.com/DashIncubator/dash-incubator-app)
+- [DashCraft](http://readme.dashdevs.org/minecraft-explorer/) - Store your MineCraft creations with this Dash-integrated Minecraft plugin, view them on any MineCraft explorer website
 - [DashPay](https://github.com/dashevo) - Mobile Dapp enabling Username based payments and Platform authentication (WIP)
 - [DPNS](https://dashplatform.readme.io/docs/explanation-dpns) - Name Service Dapp providing Usernames for Dash Blockchain Identities (LIVE) [Source](https://github.com/dashevo/js-dpp/tree/v0.11-dev/schema/identity)
+- [eCommerce Sample Dapp](http://checkout.dashevo.io) - eCommerce sample Dapp using EvoWallet and Point-of-Sale Dapp to showcase basic features. [Source](https://github.com/dashameter/dash-checkout)
+- [EvoWallet](http://evowallet.io/) - PFast, easy, web-based Dash wallet that allows you to sign into Dash Platform apps like Jembe [Source](https://github.com/dashameter/evowallet)
 - [Jembe](http://jembe.dashevo.io/) - Decentralized Twitter Alternative Dapp. Join the Conversation [Source](https://github.com/dashameter/jembe)
 - [Masternode Polling Tool (Proposal)](https://chat.dashdevs.org) - Polling Masternodes for Decisions (IDEA)
 - [Merchant Directory (Proposal)](https://app.dashnexus.org/proposals/dash-platform-merchant-directory/overview) - Merchant Directory Dapp (PROPOSAL)
+- [Platform Apps Video Demo](https://www.youtube.com/watch?v=yy8gO1C8fTs&ab_channel=DashMachine) - Demo reel video with narration explaining EvoWallet with InStore, Checkout and Jembe
+- [Platform Console](http://console.dashevo.io/) - Dash Platform wallet, identity, username, contract, and document all from a web browser with no coding required [Source](https://github.com/dashameter/dash-platform-console)
+- [Platform Explorer](https://pce.cloudwheels.net) - Blocks, transactions, and nodes on Dash Platform's L2/Tendermint evonet blockchain. [Source](https://github.com/cloudwheels/dappforce-tendermint-explorer)
+- [Point-of-sale Dapp](http://instore.dashevo.io/) - Your local barista runs this point-of-sale app, you pay with EvoWallet, you leave with coffee [Source](https://github.com/dashameter/pos-dash)
+- [Private Messenger Dapp](https://github.com/realKidDouglas/whatsdapp-lib) - Account-free Signal and Facebook Messenger alternative with developer tooling to build your own
+- [Python DAPI Bindings](https://github.com/10xcryptodev/dapi-client-py) - Connect to Dash Platform using Python
+- [Secure Messaging Library](https://www.npmjs.com/package/dash-secure-message) - Encryption, hashing, and other standardized modules for secure messaging between UserIDs for all Dapp types [Source](https://github.com/dashmachine/dash-secure-message)
+- [Springboard](https://github.com/dashameter/springboard-cash/releases/tag/springboard%239) - Dash-based version of Flipstarter.Cash, a Bitcoin Cash-based decentralized crowdfunding platform
 
 ## Docs
 

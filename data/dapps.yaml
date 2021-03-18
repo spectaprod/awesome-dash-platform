@@ -4,6 +4,84 @@ icon: stroke_marketing
 description: Dapps under development for Dash Platform
 weight: 3
 content:
+  - title: Python DAPI Bindings
+    source: https://github.com/10xcryptodev/dapi-client-py 
+    picture: /images/dapps/dapp.png
+    description: >
+      Connect to Dash Platform using Python
+  - title: Secure Messaging Library
+    website: https://www.npmjs.com/package/dash-secure-message
+    source: https://github.com/dashmachine/dash-secure-message
+    picture: /images/dapps/dapp.png
+    description: >
+      Encryption, hashing, and other standardized modules for secure messaging between UserIDs for all Dapp types
+  - title: Platform Apps Video Demo
+    website: https://www.youtube.com/watch?v=yy8gO1C8fTs&ab_channel=DashMachine
+    picture: /images/dapps/Dash_video.jpg
+    description: >
+      Demo reel video with narration explaining EvoWallet with InStore, Checkout and Jembe
+  - title: Dash Incubator App
+    website: https://dashincubator.app/
+    source: https://github.com/DashIncubator/dash-incubator-app
+    picture: /images/dapps/dapp.png
+    description: >
+      Continuous development to improve the Dash Incubator App itself, including scaling, incentives, autonomous operation, and developer on-boarding.
+  - title: Chrome Wallet
+    source: https://github.com/readme55/Dash-Chrome-Wallet 
+    picture: /images/dapps/dapp.png
+    description: >
+      Chrome extension for wallet, identity, and username creation, along with contract and document retrieval
+  - title: Platform Explorer
+    website: https://pce.cloudwheels.net
+    source: https://github.com/cloudwheels/dappforce-tendermint-explorer
+    picture: /images/dapps/dapp.png
+    description: >
+      Blocks, transactions, and nodes on Dash Platform's L2/Tendermint evonet blockchain.
+  - title: Platform Console
+    website: http://console.dashevo.io/
+    source: https://github.com/dashameter/dash-platform-console
+    picture: /images/dapps/dapp.png
+    description: >
+      Dash Platform wallet, identity, username, contract, and document all from a web browser with no coding required
+  - title: Connecting Ethereum to Dash Platform
+    website: https://succinctsoftware.com/2020/10/18/using-dash-drive-for-storage-in-an-ethereum-app/
+    source: https://github.com/DashBridge-io/scaffold-eth/tree/dash-eth-example
+    picture: /images/dapps/dapp.png
+    description: >
+      Researching various ways to connect Ethereum to Dash Platform.
+  - title: eCommerce Sample Dapp
+    website: http://checkout.dashevo.io
+    source: https://github.com/dashameter/dash-checkout
+    picture: /images/dapps/dapp.png
+    description: >
+      eCommerce sample Dapp using EvoWallet and Point-of-Sale Dapp to showcase basic features.
+  - title: Point-of-sale Dapp
+    website: http://instore.dashevo.io/
+    source: https://github.com/dashameter/pos-dash
+    picture: /images/dapps/dapp.png
+    description: >
+      Your local barista runs this point-of-sale app, you pay with EvoWallet, you leave with coffee
+  - title: EvoWallet
+    website: http://evowallet.io/
+    source: https://github.com/dashameter/evowallet 
+    picture: /images/dapps/dapp.png
+    description: >
+      PFast, easy, web-based Dash wallet that allows you to sign into Dash Platform apps like Jembe
+  - title: DashCraft
+    website: http://readme.dashdevs.org/minecraft-explorer/
+    picture: /images/dapps/dapp.png
+    description: >
+      Store your MineCraft creations with this Dash-integrated Minecraft plugin, view them on any MineCraft explorer website
+  - title: Private Messenger Dapp
+    website: https://github.com/realKidDouglas/whatsdapp-lib
+    picture: /images/dapps/dapp.png
+    description: >
+      Account-free Signal and Facebook Messenger alternative with developer tooling to build your own
+  - title: Springboard
+    website: https://github.com/dashameter/springboard-cash/releases/tag/springboard%239
+    picture: /images/dapps/dapp.png
+    description: >
+      Dash-based version of Flipstarter.Cash, a Bitcoin Cash-based decentralized crowdfunding platform
   - title: Jembe
     website: http://jembe.dashevo.io/
     source: https://github.com/dashameter/jembe
