@@ -4,6 +4,26 @@ icon: stroke_decentralization
 description: Dash Platorm Documentation resources.
 weight: 4
 content:
+  - title: DIP 16
+    website: https://github.com/dashpay/dips/blob/master/dip-0016.md
+    picture: /images/marks/GitHub-Mark.png
+    description: >
+      Dash Improvement Proposal (DIP) 16 Headers First Synchronization on Simple Payment Verification Wallets.
+  - title: DIP 15
+    website: https://github.com/dashpay/dips/blob/master/dip-0014.md
+    picture: /images/marks/GitHub-Mark.png
+    description: >
+      Dash Improvement Proposal (DIP) 15 Introduces DashPay-related DIP 15.
+  - title: DIP 14
+    website: https://github.com/dashpay/dips/blob/master/dip-0014.md
+    picture: /images/marks/GitHub-Mark.png
+    description: >
+      Dash Improvement Proposal (DIP) 14 Extended Key Derivation using 256-bit Unsigned Integers
+  - title: DIP 13
+    website: https://github.com/dashpay/dips/blob/master/dip-0013.md
+    picture: /images/marks/GitHub-Mark.png
+    description: >
+      Dash Improvement Proposal (DIP) 13 on Dash Platform Identities in Hierarchical Deterministic Wallets.
   - title: DIP 12
     website: https://github.com/dashpay/dips/blob/master/dip-0012.md
     picture: /images/marks/GitHub-Mark.png

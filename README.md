@@ -84,6 +84,10 @@ Readme and the website are automatically generated. In order to add an element t
 - [DashJS](https://dashevo.github.io/js-dash-sdk) - JavaScript library for Dapp developers on Dash Platform
 - [DIP 11](https://github.com/dashpay/dips/blob/master/dip-0011.md) - Dash Improvement Proposal (DIP) 11 on Identities
 - [DIP 12](https://github.com/dashpay/dips/blob/master/dip-0012.md) - Dash Improvement Proposal (DIP) 12 on Dash Platform Name Service (DPNS)
+- [DIP 13](https://github.com/dashpay/dips/blob/master/dip-0013.md) - Dash Improvement Proposal (DIP) 13 on Dash Platform Identities in Hierarchical Deterministic Wallets
+- [DIP 14](https://github.com/dashpay/dips/blob/master/dip-0014.md) - Dash Improvement Proposal (DIP) 14 Extended Key Derivation using 256-bit Unsigned Integers
+- [DIP 15](https://github.com/dashpay/dips/blob/master/dip-0014.md) - Dash Improvement Proposal (DIP) 15 Introduces DashPay-related DIP 15.
+- [DIP 16](https://github.com/dashpay/dips/blob/master/dip-0016.md) - Dash Improvement Proposal (DIP) 16 Headers First Synchronization on Simple Payment Verification Wallets.
 - [Platform Developer Guide](https://dashplatform.readme.io/) - Guides and documentation to help you start working with Dash Platform as quickly as possible, as well as support if you get stuck.
 - [Tendermint Core Docs](https://docs.tendermint.com/master/) - Docs for Tendermint, the BFT protocol used on Layer 2 in conjunction with Masternode quorums
 
