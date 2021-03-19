@@ -57,14 +57,24 @@ Readme and the website are automatically generated. In order to add an element t
 
 ## Dapps
 
+- [Alphabetize Dash Core Wallet](https://github.com/dashpay/dash/issues/3614) - Alphabetize CLI --help output from the official Dash Core Wallet [Source](https://github.com/dashpay/dash/pull/3681)
+- [C# DAPI Bindings](https://www.nuget.org/packages/dapi-client-csharp/) - Connect to Dash Platform using C# [Source](https://github.com/10xcryptodev/dapi-client-csharp)
 - [Chrome Wallet](https://github.com/readme55/Dash-Chrome-Wallet) - Chrome extension for wallet, identity, and username creation, along with contract and document retrieval
 - [Connecting Ethereum to Dash Platform](https://succinctsoftware.com/2020/10/18/using-dash-drive-for-storage-in-an-ethereum-app/) - Researching various ways to connect Ethereum to Dash Platform. [Source](https://github.com/DashBridge-io/scaffold-eth/tree/dash-eth-example)
+- [Dapp Template](https://docs.google.com/document/d/1PKhUIwKzNQW0U-xGb5BOr-Yzz1j7BgRgtTxAxiBVWtc/edit#heading=h.wp6a615yo08k) - Best-practice reference implementation of how to build a Dash dapp, a static site alternative (no server required) to the Web Dapp Sample
+- [Dapp-Dev Forum](https://discuss.dashdevs.org) - Developer-specific forum that keeps a permanent record of discussions, issues, solutions, etc. that other devs can find from a standard web search [Source](https://github.com/discourse/discourse)
 - [Dash Incubator App](https://dashincubator.app/) - Continuous development to improve the Dash Incubator App itself, including scaling, incentives, autonomous operation, and developer on-boarding. [Source](https://github.com/DashIncubator/dash-incubator-app)
 - [DashCraft](http://readme.dashdevs.org/minecraft-explorer/) - Store your MineCraft creations with this Dash-integrated Minecraft plugin, view them on any MineCraft explorer website
+- [DashDevs.org Content](https://dashdevs.org) - Add content including images and other relevant information to the Articles, DAPI, Dapps, Docs, Tools or Videos sections on https://dashdevs.org [Source](https://github.com/andyfreer/awesome-dash-platform)
+- [DashDevs.org Design](https://dashdevs.org/) - Improve the design of https://dashdevs.org [Source](https://github.com/andyfreer/awesome-dash-platform)
 - [DashPay](https://github.com/dashevo) - Mobile Dapp enabling Username based payments and Platform authentication (WIP)
+- [Data Oriented Tokens](https://github.com/readme55/dash-data-tokens) - Researching and implementing a method for creating Tokens only based on on-chain data and with off-chain validation.
 - [DPNS](https://dashplatform.readme.io/docs/explanation-dpns) - Name Service Dapp providing Usernames for Dash Blockchain Identities (LIVE) [Source](https://github.com/dashevo/js-dpp/tree/v0.11-dev/schema/identity)
 - [eCommerce Sample Dapp](http://checkout.dashevo.io) - eCommerce sample Dapp using EvoWallet and Point-of-Sale Dapp to showcase basic features. [Source](https://github.com/dashameter/dash-checkout)
 - [EvoWallet](http://evowallet.io/) - PFast, easy, web-based Dash wallet that allows you to sign into Dash Platform apps like Jembe [Source](https://github.com/dashameter/evowallet)
+- [Get Identity from Mnemonic](http://getidentity.dashmachine.net) - JavaScript library to input a mnemonic on a client, like a browser, and have the user identity returned from the network [Source](https://github.com/dashmachine/identity-from-mnemonic)
+- [Golang DAPI Bindings](https://github.com/10xcryptodev/dapi-client-go) - Connect to Dash Platform using Golang
+- [Java DAPI Bindings](https://dashincubator.app/output) - Connect to Dash Platform using Java
 - [Jembe](http://jembe.dashevo.io/) - Decentralized Twitter Alternative Dapp. Join the Conversation [Source](https://github.com/dashameter/jembe)
 - [Masternode Polling Tool (Proposal)](https://chat.dashdevs.org) - Polling Masternodes for Decisions (IDEA)
 - [Merchant Directory (Proposal)](https://app.dashnexus.org/proposals/dash-platform-merchant-directory/overview) - Merchant Directory Dapp (PROPOSAL)
@@ -76,6 +86,7 @@ Readme and the website are automatically generated. In order to add an element t
 - [Python DAPI Bindings](https://github.com/10xcryptodev/dapi-client-py) - Connect to Dash Platform using Python
 - [Secure Messaging Library](https://www.npmjs.com/package/dash-secure-message) - Encryption, hashing, and other standardized modules for secure messaging between UserIDs for all Dapp types [Source](https://github.com/dashmachine/dash-secure-message)
 - [Springboard](https://github.com/dashameter/springboard-cash/releases/tag/springboard%239) - Dash-based version of Flipstarter.Cash, a Bitcoin Cash-based decentralized crowdfunding platform
+- [Web Dapp Sample](http://wds.dashmachine.net:8082/) - Proof-of-concept web application (HTML page served by a NodeJS server) enabling basic functions (signup and login to Dash, etc) running in conjunction with Chrome Wallet [Source](https://github.com/dashmachine/web-dapp-sample)
 
 ## Docs
 
@@ -84,7 +95,7 @@ Readme and the website are automatically generated. In order to add an element t
 - [DashJS](https://dashevo.github.io/js-dash-sdk) - JavaScript library for Dapp developers on Dash Platform
 - [DIP 11](https://github.com/dashpay/dips/blob/master/dip-0011.md) - Dash Improvement Proposal (DIP) 11 on Identities
 - [DIP 12](https://github.com/dashpay/dips/blob/master/dip-0012.md) - Dash Improvement Proposal (DIP) 12 on Dash Platform Name Service (DPNS)
-- [DIP 13](https://github.com/dashpay/dips/blob/master/dip-0013.md) - Dash Improvement Proposal (DIP) 13 on Dash Platform Identities in Hierarchical Deterministic Wallets
+- [DIP 13](https://github.com/dashpay/dips/blob/master/dip-0013.md) - Dash Improvement Proposal (DIP) 13 on Dash Platform Identities in Hierarchical Deterministic Wallets.
 - [DIP 14](https://github.com/dashpay/dips/blob/master/dip-0014.md) - Dash Improvement Proposal (DIP) 14 Extended Key Derivation using 256-bit Unsigned Integers
 - [DIP 15](https://github.com/dashpay/dips/blob/master/dip-0014.md) - Dash Improvement Proposal (DIP) 15 Introduces DashPay-related DIP 15.
 - [DIP 16](https://github.com/dashpay/dips/blob/master/dip-0016.md) - Dash Improvement Proposal (DIP) 16 Headers First Synchronization on Simple Payment Verification Wallets.

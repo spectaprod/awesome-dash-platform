@@ -4,6 +4,68 @@ icon: stroke_marketing
 description: Dapps under development for Dash Platform
 weight: 3
 content:
+  - title: Get Identity from Mnemonic
+    website: http://getidentity.dashmachine.net
+    source: https://github.com/dashmachine/identity-from-mnemonic
+    picture: /images/dapps/dapp.png
+    description: >
+      JavaScript library to input a mnemonic on a client, like a browser, and have the user identity returned from the network
+  - title: Dapp Template
+    website: https://docs.google.com/document/d/1PKhUIwKzNQW0U-xGb5BOr-Yzz1j7BgRgtTxAxiBVWtc/edit#heading=h.wp6a615yo08k
+    picture: /images/dapps/dapp.png
+    description: >
+      Best-practice reference implementation of how to build a Dash dapp, a static site alternative (no server required) to the Web Dapp Sample
+  - title: Web Dapp Sample
+    website: http://wds.dashmachine.net:8082/
+    source: https://github.com/dashmachine/web-dapp-sample
+    picture: /images/dapps/dapp.png
+    description: >
+      Proof-of-concept web application (HTML page served by a NodeJS server) enabling basic functions (signup and login to Dash, etc) running in conjunction with Chrome Wallet
+  - title: Alphabetize Dash Core Wallet
+    website: https://github.com/dashpay/dash/issues/3614
+    source: https://github.com/dashpay/dash/pull/3681
+    picture: /images/dapps/dapp.png
+    description: >
+      Alphabetize CLI --help output from the official Dash Core Wallet
+  - title: DashDevs.org Design
+    website: https://dashdevs.org/
+    source: https://github.com/andyfreer/awesome-dash-platform
+    picture: /images/dapps/dapp.png
+    description: >
+      Improve the design of https://dashdevs.org
+  - title: DashDevs.org Content
+    website: https://dashdevs.org
+    source: https://github.com/andyfreer/awesome-dash-platform
+    picture: /images/dapps/dapp.png
+    description: >
+      Add content including images and other relevant information to the Articles, DAPI, Dapps, Docs, Tools or Videos sections on https://dashdevs.org
+  - title: Dapp-Dev Forum
+    website: https://discuss.dashdevs.org
+    source: https://github.com/discourse/discourse
+    picture: /images/dapps/dapp.png
+    description: >
+      Developer-specific forum that keeps a permanent record of discussions, issues, solutions, etc. that other devs can find from a standard web search
+  - title: Java DAPI Bindings
+    website: https://dashincubator.app/output
+    picture: /images/dapps/dapp.png
+    description: >
+      Connect to Dash Platform using Java
+  - title: C# DAPI Bindings
+    website: https://www.nuget.org/packages/dapi-client-csharp/
+    source: https://github.com/10xcryptodev/dapi-client-csharp
+    picture: /images/dapps/dapp.png
+    description: >
+      Connect to Dash Platform using C#
+  - title: Data Oriented Tokens
+    source: https://github.com/readme55/dash-data-tokens
+    picture: /images/dapps/dapp.png
+    description: >
+      Researching and implementing a method for creating Tokens only based on on-chain data and with off-chain validation.
+  - title: Golang DAPI Bindings
+    source: https://github.com/10xcryptodev/dapi-client-go
+    picture: /images/dapps/dapp.png
+    description: >
+      Connect to Dash Platform using Golang
   - title: Python DAPI Bindings
     source: https://github.com/10xcryptodev/dapi-client-py 
     picture: /images/dapps/dapp.png
