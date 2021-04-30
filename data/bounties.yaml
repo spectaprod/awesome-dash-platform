@@ -7,12 +7,6 @@ content:
   - title: DAPI Decentralized-HTTPS POC
     website: https://trello.com/c/99FAe1iC/39-dapi-decentralized-https-poc
     picture: /images/bounties/bounty.png
-  - title: Rust DAPI Bindings
-    website: https://trello.com/c/7EwpLxKZ/13-rust-dapi-bindings
-    picture: /images/bounties/bounty.png
-  - title: Golang DAPI Bindings
-    website: https://trello.com/c/ErETMzMX/21-golang-dapi-bindings
-    picture: /images/bounties/bounty.png
   - title: EvoWallet
     website: https://trello.com/c/MJrfbOp3/33-evowallet
     picture: /images/bounties/bounty.png
@@ -22,45 +16,127 @@ content:
   - title: Platform-UserID Secure Messaging Library
     website: https://trello.com/c/qPtO4KF9/42-platform-userid-secure-messaging-library
     picture: /images/bounties/bounty.png
-  - title: Dapp-Dev Forum
-    website: https://trello.com/c/OpGFYBa4/41-dapp-dev-forum
-    picture: /images/bounties/bounty.png
-  - title: Create Hello World Tutorial
-    website: https://trello.com/c/wEawlJb2/23-create-hello-world-tutorial
-    picture: /images/bounties/bounty.png
-  - title: Memo Dash Dapp
-    website: https://trello.com/c/Kzn8JX12/12-memo-dash-dapp
-    picture: /images/bounties/bounty.png
-  - title: Web Dapp Sample
-    website: https://trello.com/c/MsnBjQ15/29-web-dapp-sample
-    picture: /images/bounties/bounty.png
-  - title: Chrome Wallet
-    website: https://trello.com/c/XAwKVTjL/28-chrome-wallet
-    picture: /images/bounties/bounty.png
-  - title: Automated Faucet
-    website: https://trello.com/c/SoO5dtDj/32-automated-faucet
-    picture: /images/bounties/bounty.png
-  - title: DashDevs.org Work
-    website: https://trello.com/c/iN58zxs0/19-dashdevsorg-work
-    picture: /images/bounties/bounty.png
-  - title: C# DAPI Bindings
-    website: https://trello.com/c/6qVaLYmo/16-c-dapi-bindings
-    picture: /images/bounties/bounty.png
-  - title: Python DAPI Bindings
-    website: https://trello.com/c/o7Rf2ETW/15-python-dapi-bindings
+  - title: Jembe Dapp
+    website: https://trello.com/c/Kzn8JX12/12-jembe-dapp
     picture: /images/bounties/bounty.png
   - title: Platform Console
     website: https://trello.com/c/Xezls3IC/9-platform-console
     picture: /images/bounties/bounty.png
-  - title: Get Identity from Mnemonic
-    website: https://trello.com/c/LoFua90X/44-get-identity-from-mnemonic
-    picture: /images/bounties/bounty.png
-  - title: Pay-To-Username tipping POC
-    website: https://trello.com/c/ojljh1EP/36-pay-to-username-tipping-poc
-    picture: /images/bounties/bounty.png
   - title: Community EvoNet MN Hosting
     website: https://trello.com/c/rzjc7eY1/26-community-evonet-mn-hosting
     picture: /images/bounties/bounty.png
-  - title: Dash Emojis for Discord
-    website: https://trello.com/c/BhXzmXez/7-dash-emojis-for-discord
+  - title: THORChain Integration
+    website: https://trello.com/c/CDKTVi9x/152-thorchain-integration
     picture: /images/bounties/bounty.png
+  - title: Research Smart-Contract Integration
+    website: https://trello.com/c/VqEmk1dh/53-research-smart-contract-integration
+    picture: /images/bounties/bounty.png
+  - title: Decentralized TLS/HTTPS for DAPI
+    website: https://trello.com/c/99FAe1iC/39-decentralized-tls-https-for-dapi
+    picture: /images/bounties/bounty.png
+  - title: StrawPoll Dapp
+    website: https://trello.com/c/HxGanCjQ/146-strawpoll-dapp
+    picture: /images/bounties/bounty.png    
+  - title: Freelancer Dapp
+    website: https://trello.com/c/xHKvn8xW/138-freelancer-dapp
+    picture: /images/bounties/bounty.png    
+  - title: DASHDevs.Org Getting Started
+    website: https://trello.com/c/pxG8kpDr/147-dashdevsorg-getting-started
+    picture: /images/bounties/bounty.png
+  - title: DASH Provably Fair RNG Game
+    website: https://trello.com/c/AsywEE5W/148-dash-provably-fair-rng-game
+    picture: /images/bounties/bounty.png  
+  - title: DASH Lolli Extension
+    website: https://trello.com/c/dg5arOrq/153-dash-lolli-extension
+    picture: /images/bounties/bounty.png 
+  - title: DASH Patreon Alternative
+    website: https://trello.com/c/JaCCRWky/125-dash-patreon-alternative
+    picture: /images/bounties/bounty.png 
+  - title: Official Platform Block Explorer
+    website: https://trello.com/c/M5phs7NJ/119-official-platform-block-explorer
+    picture: /images/bounties/bounty.png 
+  - title: Jembe Dapp
+    website: https://trello.com/c/Kzn8JX12/12-jembe-dapp
+    picture: /images/bounties/bounty.png 
+  - title: MN Trustless Shares
+    website: https://trello.com/c/Y3MRKnPj/127-mn-trustless-shares
+    picture: /images/bounties/bounty.png 
+  - title: Masternode Multi-Party Payouts
+    website: https://trello.com/c/iGoVoTb3/107-masternode-multi-party-payouts
+    picture: /images/bounties/bounty.png 
+  - title: Dapp Signing
+    website: https://trello.com/c/JvbLYmew/76-dapp-signing
+    picture: /images/bounties/bounty.png 
+  - title: Tendermint backports (Go programing language)
+    website: https://trello.com/c/yM9JfDEX/104-tendermint-backports-go-programming-language
+    picture: /images/bounties/bounty.png 
+  - title: DashDapps Website
+    website: https://trello.com/c/7uE2YcMU/112-dashdapps-website
+    picture: /images/bounties/bounty.png 
+  - title: Dash Platform Projects Upgrade
+    website: https://trello.com/c/uFaCFImX/65-dash-platform-projects-upgrade
+    picture: /images/bounties/bounty.png 
+  - title: DashPay JS Programme
+    website: https://trello.com/c/EvTk6oYo/144-dashpay-js-programme
+    picture: /images/bounties/bounty.png 
+  - title: Distributed Thumbnail Image Service
+    website: https://trello.com/c/TAVGPNOX/156-distributed-thumbnail-image-service
+    picture: /images/bounties/bounty.png 
+  - title: Approach external R&D services
+    website: https://trello.com/c/Rj0tLQ8p/123-approach-external-rd-services
+    picture: /images/bounties/bounty.png 
+  - title: DashNews App
+    website: https://trello.com/c/SaN50j1F/140-dashnews-app
+    picture: /images/bounties/bounty.png 
+  - title: DashPay Extension
+    website: https://trello.com/c/dCjtC7JH/124-dashpay-extension
+    picture: /images/bounties/bounty.png 
+  - title: DashPay JS
+    website: https://trello.com/c/9RzFdmbB/116-dashpay-js
+    picture: /images/bounties/bounty.png 
+  - title: TenderDash Development
+    website: https://trello.com/c/uYNFyFp7/150-tenderdash-development
+    picture: /images/bounties/bounty.png 
+  - title: Governance Portal
+    website: https://trello.com/c/c36t7QSM/141-governance-portal
+    picture: /images/bounties/bounty.png 
+  - title: Incubator Templates
+    website: https://trello.com/c/p61W3mjP/151-incubator-templates
+    picture: /images/bounties/bounty.png 
+  - title: Machine Learning Micropayments
+    website: https://trello.com/c/zciecaSV/137-machine-learning-micropayments
+    picture: /images/bounties/bounty.png 
+  - title: Payments API
+    website: https://trello.com/c/pincRNBU/134-payments-api
+    picture: /images/bounties/bounty.png 
+  - title: Attention Tipping Extension
+    website: https://trello.com/c/iwObyp5p/136-attention-tipping-extension
+    picture: /images/bounties/bounty.png 
+  - title: Linktree Alternative
+    website: https://trello.com/c/2SHTEqG3/129-linktree-alternative
+    picture: /images/bounties/bounty.png 
+  - title: Private Messenger Dapp
+    website: https://trello.com/c/LUyEnwJ9/46-private-messenger-dapp
+    picture: /images/bounties/bounty.png 
+  - title: Password + Public-Private-Key Manager
+    website: https://trello.com/c/S48CSFL4/111-password-public-private-key-manager
+    picture: /images/bounties/bounty.png 
+  - title: Dash Incubator App V2
+    website: https://trello.com/c/Fx1l1CvO/130-dash-incubator-app-v2
+    picture: /images/bounties/bounty.png 
+  - title: Dash Artwork Contest
+    website: https://trello.com/c/k7o4ZYb2/128-dash-artwork-contest
+    picture: /images/bounties/bounty.png 
+  - title: Data Oriented Tokens
+    website: https://trello.com/c/eJCQLBUf/98-data-oriented-tokens
+    picture: /images/bounties/bounty.png 
+  - title: Decentralized Identity (DID)
+    website: https://trello.com/c/6iAm9pjk/40-decentralized-identity-did
+    picture: /images/bounties/bounty.png 
+  - title: Atomic Swaps
+    website: https://trello.com/c/o9l91FLG/96-atomic-swaps
+    picture: /images/bounties/bounty.png 
+  - title: Integrating Dash into 3rd-Party Software
+    website: https://trello.com/c/GE5g9iHq/87-integrating-dash-into-3rd-party-software
+    picture: /images/bounties/bounty.png 
+
